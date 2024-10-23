@@ -1,0 +1,262 @@
+2024-10-07 15:50:38.486 [info] Extension host with pid 22620 started
+2024-10-07 15:50:38.486 [info] Skipping acquiring lock for /home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d.
+2024-10-07 15:50:38.850 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-07 15:50:38.851 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-10-07 15:50:38.857 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2024-10-07 15:50:39.098 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2024-10-07 15:50:39.521 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-07 15:50:39.521 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-07 15:50:39.900 [info] Eager extensions activated
+2024-10-07 15:50:40.005 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 15:50:40.012 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 15:50:40.013 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 15:50:40.016 [info] ExtensionService#_doActivateExtension SonarSource.sonarlint-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 15:50:40.232 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 15:50:41.215 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-07 15:50:41.293 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-10-07 15:50:42.549 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-10-07 15:50:42.549 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-10-07 15:56:16.121 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-07 16:05:53.134 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:54.168 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:54.270 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:54.360 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:54.562 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:54.768 [info] ExtensionService#_doActivateExtension yangbaopan.maven-dependency-analyzer, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:56.089 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-10-07 16:05:57.340 [error] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:908917
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at Object.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870897)
+	at Generator.next (<anonymous>)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869349
+	at new Promise (<anonymous>)
+	at r (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869094)
+	at Object.isTestFile (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870839)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:715496
+	at Generator.next (<anonymous>)
+	at a (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:713801) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-07 16:05:57.341 [error] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:908917
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at Object.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870897)
+	at Generator.next (<anonymous>)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869349
+	at new Promise (<anonymous>)
+	at r (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869094)
+	at Object.isTestFile (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870839)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:715496
+	at Generator.next (<anonymous>)
+	at a (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:713801) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-07 16:05:57.399 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+2024-10-07 16:05:57.636 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-10-07 16:05:58.445 [error] Error: ENOENT: no such file or directory, open '/home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:641:25)
+	at async Object.readFile (node:internal/fs/promises:1269:14)
+2024-10-07 16:06:00.059 [warning] The task [Maven Dependency Analysis Task, Dependency - Task] uses an undefined task type. The task will be ignored in the future.
+2024-10-07 16:06:24.101 [error] Error: The request (id: 16, method: 'workspace/executeCommand') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-07 16:06:25.828 [error] Error: The request (id: 17, method: 'workspace/executeCommand') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-07 16:06:26.100 [error] Error: The request (id: 20, method: 'workspace/executeCommand') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-07 16:07:09.417 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:07:09.418 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:07:43.810 [error] [redhat.java] provider FAILED
+2024-10-07 16:07:43.814 [error] Error: The request (id: 26, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-07 16:07:44.083 [error] [redhat.java] provider FAILED
+2024-10-07 16:07:44.083 [error] Error: The request (id: 27, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-07 16:08:22.330 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:08:22.331 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:12:28.176 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:12:28.177 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:13:10.002 [error] [redhat.java] provider FAILED
+2024-10-07 16:13:10.016 [error] Error: The request (id: 92, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-07 16:13:10.608 [error] [redhat.java] provider FAILED
+2024-10-07 16:13:10.608 [error] Error: The request (id: 95, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-07 16:14:11.613 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:11.613 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:14:29.586 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:29.587 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:14:58.322 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:58.322 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:15:19.463 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:15:19.463 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:18:09.312 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:18:09.312 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 17:54:34.459 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 17:54:34.477 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:00:36.494 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:00:36.495 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:01:56.818 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:01:56.818 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:09:08.967 [error] [redhat.java] provider FAILED
+2024-10-10 18:09:08.969 [error] Error: The request (id: 207, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-10 18:11:11.671 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:11:11.671 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:11:11.672 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:14:26.892 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:14:26.893 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:15:11.185 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:15:11.186 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:19:04.069 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:19:04.069 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:19:56.591 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:19:56.592 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:20:19.313 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:20:19.314 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:25:11.006 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:25:11.006 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:27:34.028 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:27:34.029 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:32:43.104 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:32:43.105 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:32:43.105 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:37:23.920 [error] [redhat.java] provider FAILED
+2024-10-10 18:37:23.921 [error] Error: The request (id: 510, method: 'textDocument/hover') has been cancelled
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090351
+	at re (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1090645)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085429
+	at Immediate.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:1085449)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-10-10 18:38:09.351 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:38:09.352 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:38:09.353 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:39:10.299 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:39:10.299 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:39:22.865 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:39:22.865 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:41:53.039 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:41:53.040 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:45:02.960 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:45:02.961 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:45:45.171 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:45:45.171 [error] Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-14 15:32:52.945 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-14 15:32:56.369 [error] Canceled: Canceled
+	at new D (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:35235)
+	at y.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:6005)
+	at V.<computed>.F.charCodeAt.A.CharCode.DollarSign.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:3107)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210015)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at C.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:208777)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at i.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:952009)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:802)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:1018)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:972587)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:978709
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978695)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4176)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:954307)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at $ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:13607
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+	at Object.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11463)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:10282)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8153
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8140)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8413)
+	at $.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-14 15:32:56.527 [error] Canceled: Canceled
+	at new D (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:35235)
+	at y.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:6005)
+	at V.<computed>.F.charCodeAt.A.CharCode.DollarSign.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:3107)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210015)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at C.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:208777)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at i.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1060944)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:802)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:1018)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:972587)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:978709
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978695)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4176)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:954307)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at $ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:13607
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+	at Object.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11463)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:10282)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8153
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8140)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8413)
+	at $.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-14 15:32:56.812 [error] Error: Channel has been closed
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:2490)
+	at Object.appendLine (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:2608)
+	at a.error (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:870230)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:878448
+	at async Promise.all (index 14)
+	at async m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8168)
+2024-10-14 15:32:56.812 [info] Extension host with pid 22620 exiting with code 0

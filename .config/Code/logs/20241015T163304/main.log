@@ -1,0 +1,7 @@
+2024-10-15 16:33:10.553 [info] update#setState idle
+2024-10-15 16:33:40.663 [info] update#setState checking for updates
+2024-10-15 16:33:40.680 [info] update#setState available for download
+2024-10-15 16:34:23.992 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1983587440, signal: unknown
+2024-10-15 16:34:26.015 [info] Extension host with pid 7385 exited with code: 0, signal: unknown.
+2024-10-15 16:42:01.561 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1983587440, signal: unknown
+2024-10-15 16:42:02.730 [info] Extension host with pid 8554 exited with code: 0, signal: unknown.

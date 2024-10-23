@@ -1,0 +1,3 @@
+{"timestamp":564563,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1729006809420"}}
+{"timestamp":565389,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"addAnImageInPDF","reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1729006810247"}}
+{"timestamp":565389,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1729006810247"}}

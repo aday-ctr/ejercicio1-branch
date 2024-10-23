@@ -1,0 +1,34 @@
+2024-10-03 17:54:42.593 [info] Deleted uninstalled extension from disk redhat.java /home/pro/.vscode/extensions/redhat.java-1.35.0-linux-x64
+2024-10-03 17:54:48.731 [info] Getting Manifest... sonarsource.sonarlint-vscode
+2024-10-03 17:54:49.062 [info] Installing extension: sonarsource.sonarlint-vscode {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-03 17:55:00.580 [info] Getting Manifest... usernamehw.errorlens
+2024-10-03 17:55:00.590 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-03 17:55:03.991 [info] Extension signature verification result for usernamehw.errorlens: Success. Executed: true. Duration: 1859ms.
+2024-10-03 17:55:04.050 [info] Extracted extension to file:///home/pro/.vscode/extensions/usernamehw.errorlens-3.20.0: usernamehw.errorlens
+2024-10-03 17:55:04.364 [info] Renamed to /home/pro/.vscode/extensions/usernamehw.errorlens-3.20.0
+2024-10-03 17:55:04.589 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-03 17:55:31.975 [info] Extension signature verification result for sonarsource.sonarlint-vscode: Success. Executed: true. Duration: 6822ms.
+2024-10-03 17:55:33.597 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-10-03 17:55:33.614 [info] Installing extension: formulahendry.auto-close-tag {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-03 17:55:37.437 [info] Extension signature verification result for formulahendry.auto-close-tag: Success. Executed: true. Duration: 2831ms.
+2024-10-03 17:55:37.518 [info] Extracted extension to file:///home/pro/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-10-03 17:55:37.920 [info] Renamed to /home/pro/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2024-10-03 17:55:38.289 [info] Extension installed successfully: formulahendry.auto-close-tag vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-03 17:55:42.866 [info] Extracted extension to file:///home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64: sonarsource.sonarlint-vscode
+2024-10-03 17:55:43.287 [info] Renamed to /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64
+2024-10-03 17:55:44.016 [info] Marked extension as uninstalled sonarsource.sonarlint-vscode-4.10.0-linux-x64
+2024-10-03 17:55:44.044 [info] Extension installed successfully: sonarsource.sonarlint-vscode vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-03 17:55:44.327 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-03 17:55:44.334 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:43.940Z"},"pinned":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-03 17:55:46.728 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 1402ms.
+2024-10-03 17:55:46.836 [info] Extracted extension to file:///home/pro/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100209: ms-ceintl.vscode-language-pack-es
+2024-10-03 17:55:46.976 [info] Renamed to /home/pro/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100209
+2024-10-03 17:55:47.153 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-03 17:55:47.187 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-03 17:55:47.438 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-03 17:55:55.428 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-10-03 17:55:55.438 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-03 17:55:58.157 [info] Extension signature verification result for dracula-theme.theme-dracula: Success. Executed: true. Duration: 1936ms.
+2024-10-03 17:55:58.181 [info] Extracted extension to file:///home/pro/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2024-10-03 17:55:58.377 [info] Renamed to /home/pro/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2024-10-03 17:55:58.617 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/pro/.vscode/extensions/extensions.json

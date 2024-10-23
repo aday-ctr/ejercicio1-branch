@@ -1,0 +1,128 @@
+{
+	"name": "gpthelper",
+	"displayName": "GPT",
+	"description": "Use GPT inside VS Code",
+	"icon": "icon.jpg",
+	"version": "0.4.8",
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"publisher": "SilasNevstad",
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.askGPT",
+		"onCommand:gpthelper.setKey",
+		"onCommand:gpthelper.changeLimit",
+		"onCommand:gpthelper.changeModel",
+		"onCommand:gpthelper.showChatHistory",
+		"onCommand:gpthelper.clearChatHistory",
+		"onCommand:gpthelper.changeOutputMode",
+		"onCommand:gpthelper.changeDebugMode"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.askGPT",
+				"title": "Ask GPT"
+			},
+			{
+				"command": "gpthelper.setKey",
+				"title": "GPT: Set API Key"
+			},
+			{
+				"command": "gpthelper.changeLimit",
+				"title": "GPT: Change Token Limit"
+			},
+			{
+				"command": "gpthelper.changeModel",
+				"title": "GPT: Change Model"
+			},
+			{
+				"command": "gpthelper.showChatHistory",
+				"title": "GPT: Show Chat History"
+			},
+			{
+				"command": "gpthelper.clearChatHistory",
+				"title": "GPT: Clear Chat History"
+			},
+			{
+				"command": "gpthelper.changeOutputMode",
+				"title": "GPT: Change Output Mode"
+			},
+			{
+				"command": "gpthelper.changeDebugMode",
+				"title": "GPT: Change Debug Mode"
+			}
+		]
+	},
+	"menus": {
+		"editor/context": [
+			{
+				"command": "gpthelper.askGPT",
+				"group": "gptCommands",
+				"when": "editorHasSelection"
+			},
+			{
+				"command": "gpthelper.showChatHistory",
+				"group": "gptCommands",
+				"when": "editorHasSelection"
+			}
+		]
+	},
+	"keybindings": [
+		{
+			"command": "extension.askGPT",
+			"key": "alt+shift+i",
+			"mac": "alt+shift+i"
+		}
+	],
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js",
+		"vscode:prepublish": "npm run esbuild-base -- --minify",
+		"esbuild-base": "esbuild ./extension.js --bundle --outfile=dist/extension.js --external:vscode --format=cjs --platform=node",
+		"esbuild": "npm run esbuild-base -- --sourcemap",
+		"esbuild-watch": "npm run esbuild-base -- --sourcemap --watch",
+		"test-compile": "tsc -p ./"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.4.0",
+		"@types/glob": "^8.0.1",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "16.x",
+		"@types/vscode": "^1.70.0",
+		"@vscode/test-electron": "^2.2.2",
+		"esbuild": "^0.20.2",
+		"eslint": "^9.4.0",
+		"glob": "^8.1.0",
+		"globals": "^15.4.0",
+		"mocha": "^10.1.0",
+		"vscode": "^1.1.37"
+	},
+	"dependencies": {
+		"axios": "^1.7.2",
+		"dotenv": "^16.0.3",
+		"openai": "^3.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/silasnevstad/GPT-Extension-VSCode"
+	},
+	"__metadata": {
+		"id": "50bdf33c-35b3-4616-af37-23f8b20dfea0",
+		"publisherId": "c71538c4-f5f3-4260-84e4-38fe96c8dbe7",
+		"publisherDisplayName": "Silas Nevstad",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1729006854766,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}

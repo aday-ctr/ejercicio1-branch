@@ -1,0 +1,94 @@
+{
+	"name": "maven-dependency-analyzer",
+	"displayName": "Maven Dependency Analyzer",
+	"description": "Performing dependency analysis and viewing of Maven projects",
+	"version": "1.0.2",
+	"publisher": "yangbaopan",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Other",
+		"Linters",
+		"Programming Languages"
+	],
+	"activationEvents": [
+		"onLanguage:java",
+		"workspaceContains:pom.xml"
+	],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "maven-dependency-analyzer.analysis",
+				"title": "Dnalyze Dependencies",
+				"icon": "$(graph)",
+				"category": "Maven"
+			}
+		],
+		"menus": {
+			"editor/title": [
+				{
+					"when": "resourceFilename == pom.xml",
+					"command": "maven-dependency-analyzer.analysis",
+					"group": "navigation"
+				}
+			]
+		},
+		"configuration": [
+			{
+				"title": "Maven Dependency Analyzer",
+				"properties": {
+					"maven-dependency-analyzer.maven.executable.path": {
+						"type": "string",
+						"default": "",
+						"description": "Specifies absolute path of your 'mvn' executable."
+					}
+				}
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "yarn run package",
+		"compile": "webpack",
+		"watch": "webpack --watch",
+		"package": "webpack --mode production --devtool hidden-source-map",
+		"lint": "eslint src --ext ts"
+	},
+	"icon": "images/logo.png",
+	"devDependencies": {
+		"@types/glob": "^8.1.0",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "16.x",
+		"@types/vscode": "^1.78.0",
+		"@typescript-eslint/eslint-plugin": "^5.56.0",
+		"@typescript-eslint/parser": "^5.56.0",
+		"eslint": "^8.36.0",
+		"glob": "^8.1.0",
+		"mocha": "^10.2.0",
+		"ts-loader": "^9.4.2",
+		"typescript": "^4.9.5",
+		"webpack": "^5.76.3",
+		"webpack-cli": "^5.0.1"
+	},
+	"dependencies": {
+		"@types/graphlib": "^2.1.8",
+		"@types/graphlib-dot": "^0.6.1",
+		"@vscode/webview-ui-toolkit": "^1.4.0",
+		"graphlib-dot": "^0.6.4"
+	},
+	"__metadata": {
+		"id": "9c3e2d02-dea7-4c2c-8d37-1266b8b7bc1b",
+		"publisherId": "0692e976-2f43-49f8-b6ab-8fb322a69572",
+		"publisherDisplayName": "yangbaopan",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1727373408748,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}

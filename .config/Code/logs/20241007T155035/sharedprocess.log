@@ -1,0 +1,14 @@
+2024-10-07 15:50:42.865 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-10-07 15:50:42.883 [info] Getting Manifest... sonarsource.sonarlint-vscode
+2024-10-07 15:50:43.035 [info] Installing extension: ms-vscode-remote.remote-containers {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-07 15:50:43.050 [info] Installing extension: sonarsource.sonarlint-vscode {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-07 15:50:50.413 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Executed: true. Duration: 5393ms.
+2024-10-07 15:50:50.958 [info] Extracted extension to file:///home/pro/.vscode/extensions/ms-vscode-remote.remote-containers-0.388.0: ms-vscode-remote.remote-containers
+2024-10-07 15:50:51.480 [info] Renamed to /home/pro/.vscode/extensions/ms-vscode-remote.remote-containers-0.388.0
+2024-10-07 15:50:51.715 [info] Marked extension as uninstalled ms-vscode-remote.remote-containers-0.384.0
+2024-10-07 15:50:51.759 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-07 15:51:41.162 [info] Extension signature verification result for sonarsource.sonarlint-vscode: Success. Executed: true. Duration: 11249ms.
+2024-10-07 15:51:49.302 [info] Extracted extension to file:///home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1: sonarsource.sonarlint-vscode
+2024-10-07 15:51:49.766 [info] Renamed to /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1
+2024-10-07 15:51:52.085 [info] Marked extension as uninstalled sonarsource.sonarlint-vscode-4.11.0-linux-x64
+2024-10-07 15:51:52.366 [info] Extension installed successfully: sonarsource.sonarlint-vscode vscode-userdata:/home/pro/.vscode/extensions/extensions.json

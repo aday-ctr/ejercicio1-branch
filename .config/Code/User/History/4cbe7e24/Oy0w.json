@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": true
+    }
+}

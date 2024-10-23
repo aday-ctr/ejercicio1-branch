@@ -1,0 +1,12 @@
+2024-10-14 18:05:40.449 [info] Getting Manifest... davidanson.vscode-markdownlint
+2024-10-14 18:05:40.474 [info] Installing extension: davidanson.vscode-markdownlint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-14 18:05:48.385 [info] Extension signature verification result for davidanson.vscode-markdownlint: Success. Executed: true. Duration: 6340ms.
+2024-10-14 18:05:48.515 [info] Extracted extension to file:///home/pro/.vscode/extensions/davidanson.vscode-markdownlint-0.56.0: davidanson.vscode-markdownlint
+2024-10-14 18:05:48.824 [info] Renamed to /home/pro/.vscode/extensions/davidanson.vscode-markdownlint-0.56.0
+2024-10-14 18:05:49.214 [info] Extension installed successfully: davidanson.vscode-markdownlint vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-14 18:06:00.531 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2024-10-14 18:06:00.549 [info] Installing extension: shd101wyy.markdown-preview-enhanced {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-14 18:06:03.609 [info] Extension signature verification result for shd101wyy.markdown-preview-enhanced: Success. Executed: true. Duration: 1475ms.
+2024-10-14 18:06:04.424 [info] Extracted extension to file:///home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14: shd101wyy.markdown-preview-enhanced
+2024-10-14 18:06:04.675 [info] Renamed to /home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14
+2024-10-14 18:06:04.904 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced vscode-userdata:/home/pro/.vscode/extensions/extensions.json

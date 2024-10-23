@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": true
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "git.enableSmartCommit": true
+}

@@ -1,0 +1,643 @@
+!SESSION 2024-10-07 16:06:01.206 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  --pipe=/run/user/1002/lsp-bee18d4a9e5414b39a86755df65f5a3f.sock
+Command-line arguments:  -data /home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d/redhat.java/jdt_ws --pipe=/run/user/1002/lsp-bee18d4a9e5414b39a86755df65f5a3f.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:13.262
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.014
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.179
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.192
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.193
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.486
+!MESSAGE ProjectRegistryRefreshJob finished 2292ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.622
+!MESSAGE Started org.eclipse.buildship.core 135ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.975
+!MESSAGE Setting /usr/lib/jvm/java-11-openjdk-amd64 as 'JavaSE-11' environment (id:1728313576888)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.006
+!MESSAGE Setting /usr/lib/jvm/java-17-openjdk-amd64 as 'JavaSE-17' environment (id:1728313576987)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.007
+!MESSAGE Setting java.home /usr/lib/jvm/java-17-openjdk-amd64 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.024
+!MESSAGE Default VM Install changed from  1728313576822-/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/jre/17.0.12-linux-x86_64 to 1728313576987-/usr/lib/jvm/java-17-openjdk-amd64
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.071
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.095
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.1/dist/com.microsoft.jdtls.intellicode.core-0.7.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.158
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-gradle-3.16.4/server/com.microsoft.gradle.bs.importer-0.5.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.181
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-debug-0.58.0/server/com.microsoft.java.debug.plugin-0.53.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.214
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-dependency-0.24.0/server/com.microsoft.jdtls.ext.core-0.24.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.250
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-api_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.264
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-engine_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.275
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-migrationsupport_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.287
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-params_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.361
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-commons_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.368
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-engine_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.375
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-launcher_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.380
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-runner_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.383
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-api_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.420
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-commons_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.422
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-engine_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.431
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-vintage-engine_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.433
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.443
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.eclipse.jdt.junit4.runtime_1.3.0.v20220609-1843.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.459
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.eclipse.jdt.junit5.runtime_1.1.100.v20220907-0450.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.461
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.opentest4j_1.2.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.477
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.jacoco.core_0.8.12.202403310830.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.480
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/com.microsoft.java.test.plugin-0.42.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.503
+!MESSAGE Installed reference:file:/home/pro/.vscode/extensions/vscjava.vscode-maven-0.44.0/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.521
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-engine_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.615
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-dependency-0.24.0/server/com.microsoft.jdtls.ext.core-0.24.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.622
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-commons_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.693
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.1/dist/com.microsoft.jdtls.intellicode.core-0.7.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.702
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-runner_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.766
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/com.microsoft.java.test.plugin-0.42.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.773
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-params_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.773
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.eclipse.jdt.junit4.runtime_1.3.0.v20220609-1843.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.774
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-migrationsupport_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.774
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.822
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-gradle-3.16.4/server/com.microsoft.gradle.bs.importer-0.5.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.826
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-jupiter-api_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.828
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-commons_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.831
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.jacoco.core_0.8.12.202403310830.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.833
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.eclipse.jdt.junit5.runtime_1.1.100.v20220907-0450.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.834
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-api_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.851
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-maven-0.44.0/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.851
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-engine_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.852
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-launcher_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.853
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-platform-suite-engine_1.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.909
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-debug-0.58.0/server/com.microsoft.java.debug.plugin-0.53.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.909
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/org.opentest4j_1.2.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.910
+!MESSAGE Started reference:file:/home/pro/.vscode/extensions/vscjava.vscode-java-test-0.42.0/server/junit-vintage-engine_5.9.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.920
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.925
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.925
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.926
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.926
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.935
+!MESSAGE Non-Static Commands: [java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.935
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.936
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.936
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.936
+!MESSAGE Non-Static Commands: [java.gradle.delegateTest]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.937
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.937
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.937
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.937
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.007
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.123
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.230
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.424
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:20.912
+!MESSAGE Try to create an invisible project for the workspace /home/pro/Escritorio/git/ejercicio1-branch
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:20.913
+!MESSAGE Creating the Java project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:21.147
+!MESSAGE Finished creating the Java project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:21.199
+!MESSAGE Successfully created a workspace invisible project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:21.272
+!MESSAGE Workspace initialized in 3265ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:21.312
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:22.256
+!MESSAGE >> Updating classpath for project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:22.293
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:22.617
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.331
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.331
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.343
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.610
+!MESSAGE begin problem for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.649
+!MESSAGE 1 problems reported for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.650
+!MESSAGE Validated 1. Took 421 ms
+
+!ENTRY java-debug 1 0 2024-10-07 16:06:26.882
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:10:59.981
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:11:00.765
+!MESSAGE begin problem for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:11:00.766
+!MESSAGE 1 problems reported for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:11:00.783
+!MESSAGE Validated 1. Took 116 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:13:10.761
+!MESSAGE Maven Central search cancelled
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 17:51:58.600
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 17:51:59.082
+!MESSAGE Validated 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:05:39.404
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:05:39.857
+!MESSAGE Validated 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:05:51.516
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:05:51.926
+!MESSAGE Validated 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:09:07.654
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:09:08.109
+!MESSAGE Validated 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:06.254
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:06.290
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:06.722
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:06.727
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:06.728
+!MESSAGE Validated 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:10.613
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:11.019
+!MESSAGE Validated 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:17.674
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:18.094
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:18.094
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:18.098
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:19.954
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:20.449
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:20.449
+!MESSAGE 1 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:20.450
+!MESSAGE Validated 1. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:21.208
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:21.710
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:21.710
+!MESSAGE 1 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:21.712
+!MESSAGE Validated 1. Took 53 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:22.831
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:23.255
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:23.255
+!MESSAGE 1 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:23.260
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:24.150
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:24.588
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:24.588
+!MESSAGE 1 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:24.589
+!MESSAGE Validated 1. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:26.959
+!MESSAGE Reconciled 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:27.236
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:27.432
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:27.432
+!MESSAGE 4 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:27.438
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:27.773
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.186
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.186
+!MESSAGE 1 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.194
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.397
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.810
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.810
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:28.810
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:29.905
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:30.349
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:30.350
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:30.351
+!MESSAGE Validated 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:30.606
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:31.012
+!MESSAGE Validated 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:33.476
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:33.944
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:33.944
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:33.945
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:34.459
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:34.885
+!MESSAGE Validated 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:35.896
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:36.420
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:36.421
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:36.421
+!MESSAGE Validated 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:39.268
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:39.380
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:39.810
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:39.816
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:10:39.817
+!MESSAGE Validated 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:12:09.272
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:12:09.745
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:12:09.752
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:12:09.754
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:15:47.382
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:15:47.857
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:15:47.858
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:15:47.864
+!MESSAGE Validated 1. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:10.710
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:10.769
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:11.268
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:11.268
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:11.269
+!MESSAGE Validated 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:12.161
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:12.588
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:12.588
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:12.598
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:19.790
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:20.220
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:20.220
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:20.223
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:22.257
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:22.718
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:22.718
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:22.719
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:25.329
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:25.792
+!MESSAGE begin problem for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:25.793
+!MESSAGE 0 problems reported for /ejercicio2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:25.793
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:26.525
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:26.952
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:26.952
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:32:26.952
+!MESSAGE Validated 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:21.343
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:21.808
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:21.808
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:21.808
+!MESSAGE Validated 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:25.731
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:25.765
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:26.236
+!MESSAGE begin problem for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:26.236
+!MESSAGE 0 problems reported for /Ejercicio3.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-10 18:37:26.239
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-14 15:32:56.564
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-14 15:32:56.663
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-14 15:32:57.290
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-14 15:32:57.490
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

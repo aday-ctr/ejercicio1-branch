@@ -1,0 +1,145 @@
+Executing /usr/lib/jvm/java-17-openjdk-amd64/bin/java -jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/server/sonarlint-ls.jar -stdio -analyzers /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonargo.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarjava.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarjs.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarphp.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarpython.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarhtml.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarxml.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarcfamily.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonartext.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonariac.jar /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.1/analyzers/sonarlintomnisharp.jar
+[Info - 16:42:57.504] SonarLint backend started, instance=org.sonarsource.sonarlint.core.rpc.impl.SonarLintRpcServerImpl@2d52216b
+[Info - 16:43:07.137] Started embedded server on port 64120
+[Warn - 16:43:10.872] Node.js could not be automatically detected, has to be configured manually in the SonarLint preferences!
+[Info - 16:43:34.619] .gitignore file was not found for /home/pro/Escritorio/libro
+[Info - 16:43:34.644] Triggering analysis with configuration: [
+  baseDir: /home/pro/Escritorio/libro
+  extraProperties: {sonar.cfamily.compile-commands=}
+  activeRules: [14 kubernetes, 214 python, 425 cpp, 189 c, 23 go, 210 ipython, 90 secrets, 26 docker, 455 java, 46 Web, 15 xml, 314 csharpsquid, 155 php, 7 terraform, 18 azureresourcemanager, 7 cloudformation]
+  inputFiles: [
+    file:///home/pro/Escritorio/libro/ejercicio-git-libro/README.md (UTF-8)
+  ]
+]
+
+[Info - 16:43:35.834] .gitignore file was not found for /home/pro/Escritorio/libro
+[Info - 16:43:35.842] Triggering analysis with configuration: [
+  baseDir: /home/pro/Escritorio/libro
+  extraProperties: {sonar.cfamily.compile-commands=}
+  activeRules: [14 kubernetes, 214 python, 425 cpp, 189 c, 23 go, 210 ipython, 90 secrets, 26 docker, 455 java, 46 Web, 15 xml, 314 csharpsquid, 155 php, 7 terraform, 18 azureresourcemanager, 7 cloudformation]
+  inputFiles: [
+    file:///home/pro/Escritorio/libro/ejercicio-git-libro/README.md (UTF-8)
+  ]
+]
+
+[Info - 16:43:36.109] .gitignore file was not found for /home/pro/Escritorio/libro
+[Info - 16:43:36.119] Triggering analysis with configuration: [
+  baseDir: /home/pro/Escritorio/libro
+  extraProperties: {sonar.cfamily.compile-commands=}
+  activeRules: [14 kubernetes, 214 python, 425 cpp, 189 c, 23 go, 210 ipython, 90 secrets, 26 docker, 455 java, 46 Web, 15 xml, 314 csharpsquid, 155 php, 7 terraform, 18 azureresourcemanager, 7 cloudformation]
+  inputFiles: [
+    file:///home/pro/Escritorio/libro/ejercicio-git-libro/README.md (UTF-8)
+  ]
+]
+
+[Info - 16:43:36.411] .gitignore file was not found for /home/pro/Escritorio/libro
+[Info - 16:43:36.417] Triggering analysis with configuration: [
+  baseDir: /home/pro/Escritorio/libro
+  extraProperties: {sonar.cfamily.compile-commands=}
+  activeRules: [14 kubernetes, 214 python, 425 cpp, 189 c, 23 go, 210 ipython, 90 secrets, 26 docker, 455 java, 46 Web, 15 xml, 314 csharpsquid, 155 php, 7 terraform, 18 azureresourcemanager, 7 cloudformation]
+  inputFiles: [
+    file:///home/pro/Escritorio/libro/ejercicio-git-libro/README.md (UTF-8)
+  ]
+]
+
+[Info - 16:43:37.020] Index files
+[Info - 16:43:37.027] 1 file indexed
+[Info - 16:43:39.950] 0 source files to be analyzed
+[Info - 16:43:39.977] 0/0 source files have been analyzed
+[Info - 16:43:40.640] 0 source files to be analyzed
+[Info - 16:43:40.640] 0/0 source files have been analyzed
+[Info - 16:43:40.643] Available processors: 2
+[Info - 16:43:40.647] Using 2 threads for analysis.
+[Info - 16:43:42.318] The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[Info - 16:43:42.352] Analyzing all except non binary files
+[Info - 16:43:42.378] 1 source file to be analyzed
+[Info - 16:43:42.486] 1/1 source file has been analyzed
+[Info - 16:43:42.501] Analysis detected 0 issues and 0 Security Hotspots in 18236ms
+[Info - 16:43:42.884] Index files
+[Info - 16:43:42.890] 1 file indexed
+[Info - 16:43:43.492] 0 source files to be analyzed
+[Info - 16:43:43.492] 0/0 source files have been analyzed
+[Info - 16:43:43.534] 0 source files to be analyzed
+[Info - 16:43:43.534] 0/0 source files have been analyzed
+[Info - 16:43:43.536] Available processors: 2
+[Info - 16:43:43.536] Using 2 threads for analysis.
+[Info - 16:43:43.833] The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[Info - 16:43:43.871] Analyzing all except non binary files
+[Info - 16:43:43.902] 1 source file to be analyzed
+[Info - 16:43:43.986] 1/1 source file has been analyzed
+[Info - 16:43:43.989] Analysis detected 0 issues and 0 Security Hotspots in 8179ms
+[Info - 16:43:44.343] Index files
+[Info - 16:43:44.380] 1 file indexed
+[Info - 16:43:44.624] 0 source files to be analyzed
+[Info - 16:43:44.624] 0/0 source files have been analyzed
+[Info - 16:43:44.637] 0 source files to be analyzed
+[Info - 16:43:44.639] 0/0 source files have been analyzed
+[Info - 16:43:44.644] Available processors: 2
+[Info - 16:43:44.644] Using 2 threads for analysis.
+[Info - 16:43:44.875] The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[Info - 16:43:44.892] Analyzing all except non binary files
+[Info - 16:43:44.909] 1 source file to be analyzed
+[Info - 16:43:44.967] 1/1 source file has been analyzed
+[Info - 16:43:44.971] Analysis detected 0 issues and 0 Security Hotspots in 8870ms
+[Info - 16:43:45.361] Index files
+[Info - 16:43:45.369] 1 file indexed
+[Info - 16:43:45.670] 0 source files to be analyzed
+[Info - 16:43:45.670] 0/0 source files have been analyzed
+[Info - 16:43:45.705] 0 source files to be analyzed
+[Info - 16:43:45.705] 0/0 source files have been analyzed
+[Info - 16:43:45.705] Available processors: 2
+[Info - 16:43:45.706] Using 2 threads for analysis.
+[Info - 16:43:45.871] The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[Info - 16:43:45.883] Analyzing all except non binary files
+[Info - 16:43:45.910] 1 source file to be analyzed
+[Info - 16:43:45.979] 1/1 source file has been analyzed
+[Info - 16:43:45.982] Analysis detected 0 issues and 0 Security Hotspots in 9578ms
+[Info - 16:45:29.260] Module file event for MODIFIED for file [uri=file:///home/pro/Escritorio/libro/ejercicio-git-libro/.git/COMMIT_EDITMSG] has been ignored because it's not a Kubernetes file.
+[Info - 16:45:29.296] .gitignore file was not found for /home/pro/Escritorio/libro
+[Info - 16:45:29.316] Triggering analysis with configuration: [
+  baseDir: /home/pro/Escritorio/libro
+  extraProperties: {sonar.cfamily.compile-commands=}
+  activeRules: [14 kubernetes, 214 python, 425 cpp, 189 c, 23 go, 210 ipython, 90 secrets, 26 docker, 455 java, 46 Web, 15 xml, 314 csharpsquid, 155 php, 7 terraform, 18 azureresourcemanager, 7 cloudformation]
+  inputFiles: [
+    file:///home/pro/Escritorio/libro/ejercicio-git-libro/.git/COMMIT_EDITMSG (UTF-8)
+  ]
+]
+
+[Info - 16:45:30.069] Index files
+[Info - 16:45:30.071] 1 file indexed
+[Info - 16:45:30.300] 0 source files to be analyzed
+[Info - 16:45:30.300] 0/0 source files have been analyzed
+[Info - 16:45:30.321] 0 source files to be analyzed
+[Info - 16:45:30.322] 0/0 source files have been analyzed
+[Info - 16:45:30.322] Available processors: 2
+[Info - 16:45:30.323] Using 2 threads for analysis.
+[Info - 16:45:30.492] The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[Info - 16:45:30.519] Analyzing all except non binary files
+[Info - 16:45:30.524] 1 source file to be analyzed
+[Info - 16:45:30.590] 1/1 source file has been analyzed
+[Info - 16:45:30.599] Analysis detected 0 issues and 0 Security Hotspots in 1315ms

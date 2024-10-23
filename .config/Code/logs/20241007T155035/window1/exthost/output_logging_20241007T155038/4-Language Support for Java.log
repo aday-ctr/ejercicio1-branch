@@ -1,0 +1,6 @@
+oct 07, 2024 4:06:09 P. M. org.apache.aries.spifly.BaseActivator log
+INFORMACIÓN: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic
+oct 07, 2024 4:06:09 P. M. org.apache.aries.spifly.BaseActivator log
+INFORMACIÓN: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
+oct 07, 2024 4:06:26 P. M. com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start
+INFORMACIÓN: Starting com.microsoft.java.debug.plugin

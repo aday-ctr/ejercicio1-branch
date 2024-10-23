@@ -1,0 +1,6 @@
+2024/10/15-16:41:22.457 1983 Creating DB /home/pro/.config/Code/WebStorage/13/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/15-16:41:23.040 1983 Reusing MANIFEST /home/pro/.config/Code/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/15-16:41:24.652 1b07 Level-0 table #5: started
+2024/10/15-16:41:25.127 1b07 Level-0 table #5: 778 bytes OK
+2024/10/15-16:41:25.349 1b07 Delete type=0 #3
+2024/10/15-16:41:25.350 1982 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

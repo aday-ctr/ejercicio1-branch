@@ -1,0 +1,2125 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: línea 16: has_option: orden no encontrada
+/etc/X11/Xsession.d/75dbus_dbus-launch: línea 9: has_option: orden no encontrada
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: línea 9: has_option: orden no encontrada
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LANGUAGE=es_ES
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/pro
+dbus-update-activation-environment: setting GDM_LANG=es_ES
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+
+** (csd-color:5920): WARNING **: 19:17:16.751: failed to get edid: unable to get EDID for output
+
+** (csd-color:5920): WARNING **: 19:17:16.847: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+Gjs-Message: 19:17:18.717: Profiler is disabled. Not setting up signals.
+Gjs-Message: 19:17:19.073: JS LOG: About to start Cinnamon
+Gjs-Message: 19:17:19.170: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 88 ms
+Gjs-Message: 19:17:19.179: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 19:17:19.212: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 19:17:19.247: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 19:17:19.516: JS LOG: [LookingGlass/info] loaded at Thu Sep 26 2024 19:17:19 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 19:17:19.516: JS LOG: Cinnamon started at Thu Sep 26 2024 19:17:19 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 19:17:19.534: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 19:17:19.535: JS LOG: [LookingGlass/info] DeskletManager started in 3 ms
+Gjs-Message: 19:17:19.535: JS LOG: [LookingGlass/info] SearchProviderManager started in 3 ms
+Gjs-Message: 19:17:19.633: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+Gjs-Message: 19:17:19.762: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 114 ms
+Gjs-Message: 19:17:19.781: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 17 ms
+Gjs-Message: 19:17:19.839: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 58 ms
+vmware-user: could not open /proc/fs/vmblock/dev
+Gjs-Message: 19:17:20.175: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 334 ms
+Gjs-Message: 19:17:20.198: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 19:17:20.224: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 48 ms
+Gjs-Message: 19:17:20.367: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 143 ms
+Gjs-Message: 19:17:20.399: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 32 ms
+Gjs-Message: 19:17:20.417: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 19:17:20.520: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 120 ms
+Gjs-Message: 19:17:20.533: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 19:17:20.573: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 53 ms
+Gjs-Message: 19:17:20.753: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 180 ms
+Gjs-Message: 19:17:20.765: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 12 ms
+Gjs-Message: 19:17:21.099: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 19:17:21.100: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 19:17:21.110: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 345 ms
+
+** (csd-power:5952): CRITICAL **: 19:17:21.209: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 19:17:21.363: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 252 ms
+** Message: 19:17:21.435: nemo-desktop: session is cinnamon, establishing proxy
+cinnamon-session[5655]: WARNING: t+5,29295s: Detected that screensaver has appeared on the bus
+blueman-applet 19.17.21 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 19.17.21 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 19:17:21.629: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.115/org/x/StatusIcon/Icon)
+Gjs-Message: 19:17:21.669: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.115/org/x/StatusIcon/Icon)
+Gjs-Message: 19:17:21.686: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 323 ms
+Gjs-Message: 19:17:21.927: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 241 ms
+Gjs-Message: 19:17:21.930: JS LOG: [LookingGlass/info] AppletManager started in 2412 ms
+Gjs-Message: 19:17:21.943: JS LOG: [LookingGlass/info] Cinnamon took 2869 ms to start
+Gjs-Message: 19:17:22.384: JS LOG: Unknown network device type, is 14
+Gjs-Message: 19:17:22.415: JS LOG: Unknown network device type, is 13
+Gjs-Message: 19:17:22.415: JS LOG: Unknown network device type, is 13
+Gjs-Message: 19:17:23.847: JS LOG: [LookingGlass/info] GPU offload supported: false
+Gjs-Message: 19:17:24.130: JS LOG: Enabling WindowAttentionHandler
+blueman-applet 19.17.34 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 19:17:45.304: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.132/org/x/StatusIcon/Icon)
+cinnamon-session[5655]: WARNING: t+35,33331s: Detected that screensaver has left the bus
+Gjs-Message: 19:18:00.778: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.136/org/x/StatusIcon/Icon)
+Gjs-Message: 19:18:00.795: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.136/org/x/StatusIcon/Icon_1)
+/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py:442: DeprecationWarning: Gtk.Window.set_wmclass is deprecated
+  self.window.set_wmclass(wm_class, wm_class)
+
+** (csd-color:5920): WARNING **: 19:21:07.392: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5920): WARNING **: 19:21:07.436: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5920): WARNING **: 19:21:07.450: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py:442: DeprecationWarning: Gtk.Window.set_wmclass is deprecated
+  self.window.set_wmclass(wm_class, wm_class)
+
+** (csd-color:5920): WARNING **: 19:21:28.163: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5920): WARNING **: 19:21:28.169: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 19:21:29.005: JS LOG: Reverting display changes
+Xsession: X session started for pro at vie 27 sep 2024 15:32:30 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+14:32:30.895551 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:30.895554 main     Log opened 2024-09-27T14:32:30.895547000Z
+14:32:30.895589 main     OS Product: Linux
+14:32:30.895596 main     OS Release: 5.15.0-122-generic
+14:32:30.895601 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:30.895605 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:30.895605 main     Process ID: 2092
+14:32:30.895606 main     Package type: LINUX_64BITS_GENERIC
+14:32:30.895613 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:30.895618 main      Service: Shared Clipboard
+14:32:30.902174 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:30.902176 main     Log opened 2024-09-27T14:32:30.902171000Z
+14:32:30.902202 main     OS Product: Linux
+14:32:30.902207 main     OS Release: 5.15.0-122-generic
+14:32:30.902210 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:30.902213 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:30.902214 main     Process ID: 2100
+14:32:30.902214 main     Package type: LINUX_64BITS_GENERIC
+14:32:30.902219 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:30.902222 main      Service: VirtualBox host version check
+14:32:30.911600 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:30.911604 main     Log opened 2024-09-27T14:32:30.911596000Z
+14:32:30.911744 main     OS Product: Linux
+14:32:30.911752 main     OS Release: 5.15.0-122-generic
+14:32:30.911763 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:30.911770 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:30.911771 main     Process ID: 2107
+14:32:30.911772 main     Package type: LINUX_64BITS_GENERIC
+14:32:30.911779 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:30.911785 main      Service: Seamless Mode Support
+14:32:30.919025 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:30.919027 main     Log opened 2024-09-27T14:32:30.919022000Z
+14:32:30.919062 main     OS Product: Linux
+14:32:30.919069 main     OS Release: 5.15.0-122-generic
+14:32:30.919073 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:30.919076 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:30.919077 main     Process ID: 2112
+14:32:30.919077 main     Package type: LINUX_64BITS_GENERIC
+14:32:30.919083 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:30.919086 main      Service: Drag'n'Drop
+14:32:30.931136 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:30.931139 main     Log opened 2024-09-27T14:32:30.931126000Z
+14:32:30.931174 main     OS Product: Linux
+14:32:30.931181 main     OS Release: 5.15.0-122-generic
+14:32:30.931186 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:30.931190 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:30.931191 main     Process ID: 2120
+14:32:30.931191 main     Package type: LINUX_64BITS_GENERIC
+14:32:30.931198 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:30.931367 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:2243): WARNING **: 15:32:32.579: failed to get edid: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:32:32.595: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 15:32:33.516: Profiler is disabled. Not setting up signals.
+Gjs-Message: 15:32:33.881: JS LOG: About to start Cinnamon
+Gjs-Message: 15:32:34.156: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 270 ms
+Gjs-Message: 15:32:34.165: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 15:32:34.198: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 15:32:34.216: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 15:32:34.561: JS LOG: [LookingGlass/info] loaded at Fri Sep 27 2024 15:32:34 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 15:32:34.562: JS LOG: Cinnamon started at Fri Sep 27 2024 15:32:34 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 15:32:34.592: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 15:32:34.592: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 15:32:34.592: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 15:32:34.670: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+14:32:34.823021 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:34.823025 main     Log opened 2024-09-27T14:32:34.823009000Z
+14:32:34.823258 main     OS Product: Linux
+14:32:34.823287 main     OS Release: 5.15.0-122-generic
+14:32:34.823296 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:34.823301 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:34.823301 main     Process ID: 2438
+14:32:34.823302 main     Package type: LINUX_64BITS_GENERIC
+14:32:34.823310 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:34.823335 main      Service: Shared Clipboard
+14:32:34.847773 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:34.847776 main     Log opened 2024-09-27T14:32:34.847766000Z
+14:32:34.847880 main     OS Product: Linux
+14:32:34.847891 main     OS Release: 5.15.0-122-generic
+14:32:34.847908 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:34.847914 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:34.847915 main     Process ID: 2444
+14:32:34.847916 main     Package type: LINUX_64BITS_GENERIC
+14:32:34.847924 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:34.847931 main      Service: VirtualBox host version check
+Gjs-Message: 15:32:34.859: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 159 ms
+Gjs-Message: 15:32:34.905: JS LOG: [LookingGlass/info] Role locked: tray
+14:32:34.908684 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:34.908689 main     Log opened 2024-09-27T14:32:34.908679000Z
+14:32:34.908736 main     OS Product: Linux
+14:32:34.908747 main     OS Release: 5.15.0-122-generic
+14:32:34.908761 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:34.908771 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:34.908771 main     Process ID: 2450
+14:32:34.908772 main     Package type: LINUX_64BITS_GENERIC
+14:32:34.908782 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:34.908788 main      Service: Seamless Mode Support
+Gjs-Message: 15:32:34.922: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 63 ms
+Gjs-Message: 15:32:34.932: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 9 ms
+14:32:34.938549 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:34.938553 main     Log opened 2024-09-27T14:32:34.938544000Z
+14:32:34.938603 main     OS Product: Linux
+14:32:34.938631 main     OS Release: 5.15.0-122-generic
+14:32:34.938639 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:34.938645 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:34.938646 main     Process ID: 2456
+14:32:34.938646 main     Package type: LINUX_64BITS_GENERIC
+14:32:34.938655 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:34.938661 main      Service: Drag'n'Drop
+Gjs-Message: 15:32:34.965: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 33 ms
+14:32:34.986302 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:32:34.986305 main     Log opened 2024-09-27T14:32:34.986296000Z
+14:32:34.986391 main     OS Product: Linux
+14:32:34.986412 main     OS Release: 5.15.0-122-generic
+14:32:34.986422 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:32:34.986428 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:32:34.986429 main     Process ID: 2467
+14:32:34.986429 main     Package type: LINUX_64BITS_GENERIC
+14:32:34.986438 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:32:34.986444 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Gjs-Message: 15:32:35.101: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 136 ms
+Gjs-Message: 15:32:35.134: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 33 ms
+Gjs-Message: 15:32:35.180: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 46 ms
+Gjs-Message: 15:32:35.260: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 80 ms
+Gjs-Message: 15:32:35.697: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 407 ms
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 15:32:35.930: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 233 ms
+Gjs-Message: 15:32:36.032: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 15:32:36.057: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 126 ms
+Gjs-Message: 15:32:36.083: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 15:32:36.087: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 15:32:36.093: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 36 ms
+Fractional scaling active: False
+Gjs-Message: 15:32:36.283: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 190 ms
+
+** (csd-power:2277): CRITICAL **: 15:32:36.307: abs_to_percentage: assertion 'max > min' failed
+Trying to connect to logind...
+Starting screensaver...
+blueman-applet 15.32.36 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.32.36 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 15:32:36.529: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.47/org/x/StatusIcon/Icon)
+Gjs-Message: 15:32:36.577: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.47/org/x/StatusIcon/Icon)
+Gjs-Message: 15:32:36.640: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 356 ms
+** Message: 15:32:36.883: nemo-desktop: session is cinnamon, establishing proxy
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[1974]: WARNING: t+5,41315s: Detected that screensaver has appeared on the bus
+Successfully using logind
+Gjs-Message: 15:32:37.120: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 480 ms
+Gjs-Message: 15:32:37.121: JS LOG: [LookingGlass/info] AppletManager started in 2558 ms
+Gjs-Message: 15:32:37.130: JS LOG: [LookingGlass/info] Cinnamon took 3249 ms to start
+Gjs-Message: 15:32:37.162: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 15:32:37.213: JS LOG: Unknown network device type, is 14
+Gjs-Message: 15:32:37.220: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:32:37.221: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:32:37.980: JS LOG: [LookingGlass/info] GPU offload supported: false
+Gjs-Message: 15:32:38.731: JS LOG: Enabling WindowAttentionHandler
+blueman-applet 15.32.44 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 15:32:58.213: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.69/org/x/StatusIcon/Icon)
+cinnamon-session[1974]: WARNING: t+35,42089s: Detected that screensaver has left the bus
+cinnamon-session[1974]: WARNING: t+41,12946s: Detected that screensaver has appeared on the bus
+Gjs-Message: 15:33:17.901: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.83/org/x/StatusIcon/Icon)
+Gjs-Message: 15:33:17.913: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.83/org/x/StatusIcon/Icon_1)
+
+** (csd-color:2243): WARNING **: 15:33:34.553: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:33:34.555: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:33:34.596: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[1974]: WARNING: t+71,20753s: Detected that screensaver has left the bus
+/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py:442: DeprecationWarning: Gtk.Window.set_wmclass is deprecated
+  self.window.set_wmclass(wm_class, wm_class)
+
+** (csd-color:2243): WARNING **: 15:35:54.417: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:35:54.419: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:35:54.446: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+1
+Gjs-Message: 15:36:00.965: JS LOG: Reverting display changes
+
+(cinnamon:2378): mutter-WARNING **: 15:36:00.966: Failed to restore previous configuration: Invalid mode 2002x1324 (59,999092) for monitor 'unknown unknown'
+
+** (csd-color:2243): WARNING **: 15:36:01.226: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:36:01.227: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:36:22.351: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:36:22.351: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:36:22.408: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+1
+Gjs-Message: 15:36:26.272: JS LOG: Reverting display changes
+
+** (csd-color:2243): WARNING **: 15:36:26.773: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:2243): WARNING **: 15:36:26.774: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Loading Display module
+/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py:442: DeprecationWarning: Gtk.Window.set_wmclass is deprecated
+  self.window.set_wmclass(wm_class, wm_class)
+Loading Backgrounds module
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x800009
+cinnamon-session[1974]: WARNING: t+417,42285s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+sys:1: Warning: ../../../gobject/gsignal.c:2765: instance '0x7f4344002220' has no handler with id '328'
+cinnamon-session[1974]: WARNING: t+418,64786s: Finished playing logout sound
+cinnamon-session[1974]: WARNING: t+418,64815s: Resuming logout sequence...
+cinnamon-session[1974]: WARNING: t+419,57855s: Requesting system shutdown...
+cinnamon-session[1974]: WARNING: t+419,58039s: Attempting to shutdown using systemd...
+Xsession: X session started for pro at lun 30 sep 2024 15:55:54 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+14:55:56.381223 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:55:56.381230 main     Log opened 2024-09-30T14:55:56.381214000Z
+14:55:56.381287 main     OS Product: Linux
+14:55:56.381301 main     OS Release: 5.15.0-122-generic
+14:55:56.381312 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:55:56.381322 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:55:56.381324 main     Process ID: 4954
+14:55:56.381325 main     Package type: LINUX_64BITS_GENERIC
+14:55:56.381341 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:55:56.381352 main      Service: Shared Clipboard
+14:55:56.391589 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:55:56.391596 main     Log opened 2024-09-30T14:55:56.391579000Z
+14:55:56.391652 main     OS Product: Linux
+14:55:56.391666 main     OS Release: 5.15.0-122-generic
+14:55:56.391678 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:55:56.391688 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:55:56.391690 main     Process ID: 4958
+14:55:56.391691 main     Package type: LINUX_64BITS_GENERIC
+14:55:56.391729 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:55:56.391741 main      Service: VirtualBox host version check
+14:55:56.402268 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:55:56.402280 main     Log opened 2024-09-30T14:55:56.402259000Z
+14:55:56.402331 main     OS Product: Linux
+14:55:56.402345 main     OS Release: 5.15.0-122-generic
+14:55:56.402357 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:55:56.402367 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:55:56.402369 main     Process ID: 4965
+14:55:56.402370 main     Package type: LINUX_64BITS_GENERIC
+14:55:56.402386 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:55:56.402397 main      Service: Seamless Mode Support
+14:55:56.410571 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:55:56.410575 main     Log opened 2024-09-30T14:55:56.410565000Z
+14:55:56.410606 main     OS Product: Linux
+14:55:56.410614 main     OS Release: 5.15.0-122-generic
+14:55:56.410621 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:55:56.410627 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:55:56.410628 main     Process ID: 4973
+14:55:56.410629 main     Package type: LINUX_64BITS_GENERIC
+14:55:56.410638 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:55:56.410645 main      Service: Drag'n'Drop
+14:55:56.416116 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:55:56.416119 main     Log opened 2024-09-30T14:55:56.416112000Z
+14:55:56.416146 main     OS Product: Linux
+14:55:56.416153 main     OS Release: 5.15.0-122-generic
+14:55:56.416158 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:55:56.416227 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:55:56.416229 main     Process ID: 4977
+14:55:56.416230 main     Package type: LINUX_64BITS_GENERIC
+14:55:56.416244 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:55:56.416330 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5105): WARNING **: 15:55:58.735: failed to get edid: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:55:58.746: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 15:56:00.513: Profiler is disabled. Not setting up signals.
+Gjs-Message: 15:56:01.608: JS LOG: About to start Cinnamon
+Gjs-Message: 15:56:03.022: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1405 ms
+Gjs-Message: 15:56:03.059: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 15:56:03.122: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 15:56:03.134: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 15:56:03.416: JS LOG: [LookingGlass/info] loaded at Mon Sep 30 2024 15:56:03 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 15:56:03.416: JS LOG: Cinnamon started at Mon Sep 30 2024 15:56:03 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 15:56:03.466: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 15:56:03.467: JS LOG: [LookingGlass/info] DeskletManager started in 2 ms
+Gjs-Message: 15:56:03.467: JS LOG: [LookingGlass/info] SearchProviderManager started in 2 ms
+Gjs-Message: 15:56:03.527: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+Gjs-Message: 15:56:03.591: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 34 ms
+Gjs-Message: 15:56:03.596: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 15:56:03.600: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 9 ms
+Gjs-Message: 15:56:03.612: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 12 ms
+Gjs-Message: 15:56:03.630: JS LOG: [LookingGlass/info] Role locked: notifications
+14:56:03.644240 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:56:03.644244 main     Log opened 2024-09-30T14:56:03.644236000Z
+14:56:03.644266 main     OS Product: Linux
+14:56:03.644272 main     OS Release: 5.15.0-122-generic
+14:56:03.644276 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:56:03.644280 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:56:03.644280 main     Process ID: 5286
+14:56:03.644281 main     Package type: LINUX_64BITS_GENERIC
+14:56:03.644287 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:56:03.644291 main      Service: Shared Clipboard
+14:56:03.646426 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:56:03.646429 main     Log opened 2024-09-30T14:56:03.646422000Z
+14:56:03.646450 main     OS Product: Linux
+14:56:03.646455 main     OS Release: 5.15.0-122-generic
+14:56:03.646459 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:56:03.646463 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:56:03.646463 main     Process ID: 5290
+14:56:03.646464 main     Package type: LINUX_64BITS_GENERIC
+14:56:03.646470 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:56:03.646474 main      Service: VirtualBox host version check
+14:56:03.649795 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:56:03.649798 main     Log opened 2024-09-30T14:56:03.649791000Z
+14:56:03.649820 main     OS Product: Linux
+14:56:03.649825 main     OS Release: 5.15.0-122-generic
+14:56:03.649829 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:56:03.649833 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:56:03.649833 main     Process ID: 5293
+14:56:03.649834 main     Package type: LINUX_64BITS_GENERIC
+14:56:03.649840 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:56:03.649844 main      Service: Seamless Mode Support
+14:56:03.653857 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:56:03.653860 main     Log opened 2024-09-30T14:56:03.653853000Z
+14:56:03.653882 main     OS Product: Linux
+14:56:03.653887 main     OS Release: 5.15.0-122-generic
+14:56:03.653892 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:56:03.653896 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:56:03.653896 main     Process ID: 5297
+14:56:03.653897 main     Package type: LINUX_64BITS_GENERIC
+14:56:03.653903 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:56:03.653907 main      Service: Drag'n'Drop
+14:56:03.658537 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+14:56:03.658540 main     Log opened 2024-09-30T14:56:03.658507000Z
+14:56:03.658624 main     OS Product: Linux
+14:56:03.658655 main     OS Release: 5.15.0-122-generic
+14:56:03.658663 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+14:56:03.658667 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+14:56:03.658667 main     Process ID: 5304
+14:56:03.658694 main     Package type: LINUX_64BITS_GENERIC
+14:56:03.658704 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+14:56:03.658756 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 15:56:04.706: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 1094 ms
+Gjs-Message: 15:56:05.073: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 367 ms
+Gjs-Message: 15:56:05.125: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 52 ms
+Fractional scaling active: False
+Gjs-Message: 15:56:05.215: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 90 ms
+Gjs-Message: 15:56:05.224: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 8 ms
+Gjs-Message: 15:56:05.272: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 48 ms
+Trying to connect to logind...
+Starting screensaver...
+** Message: 15:56:06.141: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 15:56:06.160: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 888 ms
+Gjs-Message: 15:56:06.240: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 80 ms
+Gjs-Message: 15:56:06.370: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 15:56:06.371: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+blueman-applet 15.56.06 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.56.06 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 15:56:06.383: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 143 ms
+Gjs-Message: 15:56:06.386: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.46/org/x/StatusIcon/Icon)
+Gjs-Message: 15:56:06.416: JS LOG: calendar@cinnamon.org: Calendar events supported.
+
+** (csd-power:5143): CRITICAL **: 15:56:06.483: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 15:56:06.532: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 149 ms
+Cinnamon Screensaver support not found in current theme - adding some...
+Gjs-Message: 15:56:06.618: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.46/org/x/StatusIcon/Icon)
+cinnamon-session[4836]: WARNING: t+9,48419s: Detected that screensaver has appeared on the bus
+Gjs-Message: 15:56:06.669: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 136 ms
+Successfully using logind
+Gjs-Message: 15:56:07.106: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 437 ms
+Gjs-Message: 15:56:07.107: JS LOG: [LookingGlass/info] AppletManager started in 3687 ms
+Gjs-Message: 15:56:07.110: JS LOG: [LookingGlass/info] Cinnamon took 5502 ms to start
+Gjs-Message: 15:56:07.182: JS LOG: Unknown network device type, is 14
+Gjs-Message: 15:56:07.188: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:56:07.188: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:56:07.971: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 15:56:07.972: JS LOG: [LookingGlass/info] GPU offload supported: false
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 15:56:26.482: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.68/org/x/StatusIcon/Icon)
+blueman-applet 15.56.31 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+cinnamon-session[4836]: WARNING: t+39,50813s: Detected that screensaver has left the bus
+Gjs-Message: 15:56:44.755: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.72/org/x/StatusIcon/Icon)
+Gjs-Message: 15:56:44.761: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.72/org/x/StatusIcon/Icon_1)
+
+** (csd-color:5105): WARNING **: 15:56:58.261: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:56:58.272: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:56:58.275: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:01.902: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:01.908: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:01.911: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:02.831: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:02.832: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:02.835: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:03.621: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:03.624: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:03.627: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.556: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.557: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.559: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.666: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.666: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.670: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.789: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.791: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.792: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.960: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.965: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:07.966: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.071: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.071: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.074: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.192: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.196: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.196: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.555: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.555: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:08.558: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:09.011: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:09.014: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:09.014: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.338: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.339: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.341: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.423: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.423: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.426: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.536: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.537: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.539: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.684: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.685: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.689: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.828: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.832: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.836: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.929: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.931: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:14.932: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.076: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.079: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.079: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.191: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.194: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.201: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.319: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.321: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.324: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.452: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.456: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.457: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.563: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.566: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.567: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.705: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.706: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.712: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.848: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.851: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.853: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.964: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.969: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:15.974: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.180: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.180: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.186: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.290: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.292: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.293: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.409: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.415: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.416: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.587: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.590: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.592: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.680: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.683: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5105): WARNING **: 15:57:18.683: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Xsession: X session started for pro at lun 30 sep 2024 16:12:42 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+15:12:44.340879 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:44.340881 main     Log opened 2024-09-30T15:12:44.340876000Z
+15:12:44.340905 main     OS Product: Linux
+15:12:44.340909 main     OS Release: 5.15.0-122-generic
+15:12:44.340914 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:44.340917 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:44.340918 main     Process ID: 5562
+15:12:44.340918 main     Package type: LINUX_64BITS_GENERIC
+15:12:44.340924 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:44.340928 main      Service: Shared Clipboard
+15:12:44.344088 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:44.344090 main     Log opened 2024-09-30T15:12:44.344084000Z
+15:12:44.344110 main     OS Product: Linux
+15:12:44.344115 main     OS Release: 5.15.0-122-generic
+15:12:44.344119 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:44.344123 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:44.344123 main     Process ID: 5566
+15:12:44.344124 main     Package type: LINUX_64BITS_GENERIC
+15:12:44.344129 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:44.344133 main      Service: VirtualBox host version check
+15:12:44.347149 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:44.347151 main     Log opened 2024-09-30T15:12:44.347145000Z
+15:12:44.347170 main     OS Product: Linux
+15:12:44.347175 main     OS Release: 5.15.0-122-generic
+15:12:44.347179 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:44.347183 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:44.347183 main     Process ID: 5570
+15:12:44.347184 main     Package type: LINUX_64BITS_GENERIC
+15:12:44.347189 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:44.347194 main      Service: Seamless Mode Support
+15:12:44.352367 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:44.352370 main     Log opened 2024-09-30T15:12:44.352362000Z
+15:12:44.352403 main     OS Product: Linux
+15:12:44.352408 main     OS Release: 5.15.0-122-generic
+15:12:44.352413 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:44.352417 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:44.352417 main     Process ID: 5576
+15:12:44.352418 main     Package type: LINUX_64BITS_GENERIC
+15:12:44.352424 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:44.352438 main      Service: Drag'n'Drop
+15:12:44.358609 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:44.358611 main     Log opened 2024-09-30T15:12:44.358605000Z
+15:12:44.358634 main     OS Product: Linux
+15:12:44.358639 main     OS Release: 5.15.0-122-generic
+15:12:44.358643 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:44.358646 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:44.358647 main     Process ID: 5588
+15:12:44.358647 main     Package type: LINUX_64BITS_GENERIC
+15:12:44.358653 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:44.358717 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5713): WARNING **: 16:12:47.389: failed to get edid: unable to get EDID for output
+
+** (csd-color:5713): WARNING **: 16:12:47.405: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+Gjs-Message: 16:12:49.508: Profiler is disabled. Not setting up signals.
+Gjs-Message: 16:12:50.266: JS LOG: About to start Cinnamon
+Gjs-Message: 16:12:51.480: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1208 ms
+Gjs-Message: 16:12:51.517: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 16:12:51.601: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 16:12:51.613: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 16:12:51.891: JS LOG: [LookingGlass/info] loaded at Mon Sep 30 2024 16:12:51 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 16:12:51.891: JS LOG: Cinnamon started at Mon Sep 30 2024 16:12:51 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 16:12:51.937: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 16:12:51.937: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 16:12:51.937: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 16:12:51.992: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+15:12:52.092402 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:52.092404 main     Log opened 2024-09-30T15:12:52.092398000Z
+15:12:52.092436 main     OS Product: Linux
+15:12:52.092442 main     OS Release: 5.15.0-122-generic
+15:12:52.092447 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:52.092451 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:52.092452 main     Process ID: 5892
+15:12:52.092452 main     Package type: LINUX_64BITS_GENERIC
+15:12:52.092459 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:52.092464 main      Service: Shared Clipboard
+15:12:52.094886 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:52.094888 main     Log opened 2024-09-30T15:12:52.094882000Z
+15:12:52.094910 main     OS Product: Linux
+15:12:52.094916 main     OS Release: 5.15.0-122-generic
+15:12:52.094921 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:52.094925 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:52.094925 main     Process ID: 5897
+15:12:52.094926 main     Package type: LINUX_64BITS_GENERIC
+15:12:52.094932 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:52.094937 main      Service: VirtualBox host version check
+15:12:52.101679 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:52.101682 main     Log opened 2024-09-30T15:12:52.101676000Z
+15:12:52.101719 main     OS Product: Linux
+15:12:52.101726 main     OS Release: 5.15.0-122-generic
+15:12:52.101731 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:52.101735 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:52.101735 main     Process ID: 5900
+15:12:52.101736 main     Package type: LINUX_64BITS_GENERIC
+15:12:52.101775 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:52.101783 main      Service: Seamless Mode Support
+15:12:52.105652 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:52.105656 main     Log opened 2024-09-30T15:12:52.105648000Z
+15:12:52.105685 main     OS Product: Linux
+15:12:52.105692 main     OS Release: 5.15.0-122-generic
+15:12:52.105696 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:52.105700 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:52.105701 main     Process ID: 5908
+15:12:52.105701 main     Package type: LINUX_64BITS_GENERIC
+15:12:52.105708 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:52.105712 main      Service: Drag'n'Drop
+15:12:52.108028 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:12:52.108031 main     Log opened 2024-09-30T15:12:52.108025000Z
+15:12:52.108055 main     OS Product: Linux
+15:12:52.108062 main     OS Release: 5.15.0-122-generic
+15:12:52.108067 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:12:52.108071 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:12:52.108071 main     Process ID: 5912
+15:12:52.108072 main     Package type: LINUX_64BITS_GENERIC
+15:12:52.108078 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:12:52.108083 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Gjs-Message: 16:12:53.096: JS LOG: [LookingGlass/info] GPU offload supported: false
+Gjs-Message: 16:12:53.117: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 16:12:53.133: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 1133 ms
+Gjs-Message: 16:12:53.151: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 18 ms
+Gjs-Message: 16:12:53.171: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 20 ms
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 16:12:54.199: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 1028 ms
+Gjs-Message: 16:12:54.331: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 16:12:54.352: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 153 ms
+Gjs-Message: 16:12:54.481: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 129 ms
+Gjs-Message: 16:12:54.527: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 46 ms
+Fractional scaling active: False
+Gjs-Message: 16:12:54.746: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 219 ms
+Gjs-Message: 16:12:54.761: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 11 ms
+** Message: 16:12:54.801: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 16:12:54.808: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 47 ms
+blueman-applet 16.12.54 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 16.12.54 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 16:12:54.903: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 95 ms
+Gjs-Message: 16:12:54.940: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 16:12:55.161: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 16:12:55.161: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 16:12:55.165: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 262 ms
+Gjs-Message: 16:12:55.180: JS LOG: [LookingGlass/info] Adding systray: network (1x1px)
+
+** (csd-power:5742): CRITICAL **: 16:12:55.266: abs_to_percentage: assertion 'max > min' failed
+Trying to connect to logind...
+Starting screensaver...
+Gjs-Message: 16:12:55.343: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.343: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.344: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.344: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.345: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.346: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.346: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.347: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.347: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.348: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.350: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.351: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.352: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.352: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.353: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.353: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.354: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.354: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.355: JS LOG: [LookingGlass/info] Adding systray: unknown (1x1px)
+Gjs-Message: 16:12:55.379: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 214 ms
+Gjs-Message: 16:12:55.555: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.45/org/x/StatusIcon/Icon)
+Gjs-Message: 16:12:55.603: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.45/org/x/StatusIcon/Icon)
+Gjs-Message: 16:12:55.670: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 291 ms
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[5444]: WARNING: t+10,52533s: Detected that screensaver has appeared on the bus
+Gjs-Message: 16:12:55.919: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 249 ms
+Gjs-Message: 16:12:55.920: JS LOG: [LookingGlass/info] AppletManager started in 4026 ms
+Gjs-Message: 16:12:55.924: JS LOG: [LookingGlass/info] Cinnamon took 5658 ms to start
+Successfully using logind
+Gjs-Message: 16:12:55.957: JS LOG: Unknown network device type, is 14
+Gjs-Message: 16:12:55.962: JS LOG: Unknown network device type, is 13
+Gjs-Message: 16:12:55.963: JS LOG: Unknown network device type, is 13
+Gjs-Message: 16:12:56.346: JS LOG: Enabling WindowAttentionHandler
+blueman-applet 16.12.57 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 16:13:14.823: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.69/org/x/StatusIcon/Icon)
+cinnamon-session[5444]: WARNING: t+40,53727s: Detected that screensaver has left the bus
+Gjs-Message: 16:13:32.694: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.73/org/x/StatusIcon/Icon)
+Gjs-Message: 16:13:32.699: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.73/org/x/StatusIcon/Icon_1)
+cinnamon-session[5444]: WARNING: t+688,36113s: Detected that screensaver has appeared on the bus
+cinnamon-session[5444]: WARNING: t+718,37118s: Detected that screensaver has left the bus
+Xsession: X session started for pro at mar 01 oct 2024 19:54:43 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+18:54:45.207481 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:45.207488 main     Log opened 2024-10-01T18:54:45.207473000Z
+18:54:45.207542 main     OS Product: Linux
+18:54:45.207556 main     OS Release: 5.15.0-122-generic
+18:54:45.207568 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:45.207577 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:45.207579 main     Process ID: 5600
+18:54:45.207581 main     Package type: LINUX_64BITS_GENERIC
+18:54:45.207596 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:45.207607 main      Service: Shared Clipboard
+18:54:45.216703 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:45.216715 main     Log opened 2024-10-01T18:54:45.216694000Z
+18:54:45.216770 main     OS Product: Linux
+18:54:45.216784 main     OS Release: 5.15.0-122-generic
+18:54:45.216816 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:45.216827 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:45.216829 main     Process ID: 5604
+18:54:45.216830 main     Package type: LINUX_64BITS_GENERIC
+18:54:45.216846 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:45.216858 main      Service: VirtualBox host version check
+18:54:45.226021 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:45.226027 main     Log opened 2024-10-01T18:54:45.226012000Z
+18:54:45.226074 main     OS Product: Linux
+18:54:45.226088 main     OS Release: 5.15.0-122-generic
+18:54:45.226100 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:45.226110 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:45.226112 main     Process ID: 5609
+18:54:45.226113 main     Package type: LINUX_64BITS_GENERIC
+18:54:45.226128 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:45.226140 main      Service: Seamless Mode Support
+18:54:45.237645 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:45.237650 main     Log opened 2024-10-01T18:54:45.237638000Z
+18:54:45.237686 main     OS Product: Linux
+18:54:45.237696 main     OS Release: 5.15.0-122-generic
+18:54:45.237705 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:45.237713 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:45.237714 main     Process ID: 5618
+18:54:45.237715 main     Package type: LINUX_64BITS_GENERIC
+18:54:45.237727 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:45.237736 main      Service: Drag'n'Drop
+18:54:45.242712 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:45.242716 main     Log opened 2024-10-01T18:54:45.242706000Z
+18:54:45.242807 main     OS Product: Linux
+18:54:45.242820 main     OS Release: 5.15.0-122-generic
+18:54:45.242828 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:45.242834 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:45.242835 main     Process ID: 5624
+18:54:45.242836 main     Package type: LINUX_64BITS_GENERIC
+18:54:45.242846 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:45.242934 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5751): WARNING **: 19:54:47.429: failed to get edid: unable to get EDID for output
+
+** (csd-color:5751): WARNING **: 19:54:47.438: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 19:54:49.411: Profiler is disabled. Not setting up signals.
+Gjs-Message: 19:54:50.588: JS LOG: About to start Cinnamon
+Gjs-Message: 19:54:51.974: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1381 ms
+Gjs-Message: 19:54:52.011: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 19:54:52.095: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 19:54:52.107: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 19:54:52.477: JS LOG: [LookingGlass/info] loaded at Tue Oct 01 2024 19:54:52 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 19:54:52.477: JS LOG: Cinnamon started at Tue Oct 01 2024 19:54:52 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 19:54:52.523: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Gjs-Message: 19:54:52.523: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 19:54:52.523: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 19:54:52.581: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+Gjs-Message: 19:54:52.611: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 20 ms
+Gjs-Message: 19:54:52.618: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 19:54:52.622: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 11 ms
+Gjs-Message: 19:54:52.630: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 8 ms
+18:54:52.654726 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:52.654730 main     Log opened 2024-10-01T18:54:52.654722000Z
+18:54:52.654753 main     OS Product: Linux
+18:54:52.654758 main     OS Release: 5.15.0-122-generic
+18:54:52.654763 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:52.654767 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:52.654767 main     Process ID: 5928
+18:54:52.654768 main     Package type: LINUX_64BITS_GENERIC
+18:54:52.654774 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:52.654778 main      Service: Shared Clipboard
+18:54:52.657835 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:52.657837 main     Log opened 2024-10-01T18:54:52.657831000Z
+18:54:52.657908 main     OS Product: Linux
+18:54:52.657914 main     OS Release: 5.15.0-122-generic
+18:54:52.657919 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:52.657923 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:52.657923 main     Process ID: 5932
+18:54:52.657924 main     Package type: LINUX_64BITS_GENERIC
+18:54:52.657930 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:52.657934 main      Service: VirtualBox host version check
+18:54:52.666099 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:52.666101 main     Log opened 2024-10-01T18:54:52.666095000Z
+18:54:52.666126 main     OS Product: Linux
+18:54:52.666132 main     OS Release: 5.15.0-122-generic
+18:54:52.666136 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:52.666140 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:52.666141 main     Process ID: 5936
+18:54:52.666141 main     Package type: LINUX_64BITS_GENERIC
+18:54:52.666147 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:52.666152 main      Service: Seamless Mode Support
+18:54:52.681011 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:52.681013 main     Log opened 2024-10-01T18:54:52.681007000Z
+18:54:52.681040 main     OS Product: Linux
+18:54:52.681046 main     OS Release: 5.15.0-122-generic
+18:54:52.681051 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:52.681055 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:52.681055 main     Process ID: 5943
+18:54:52.681056 main     Package type: LINUX_64BITS_GENERIC
+18:54:52.681062 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:52.681066 main      Service: Drag'n'Drop
+18:54:52.683273 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+18:54:52.683275 main     Log opened 2024-10-01T18:54:52.683269000Z
+18:54:52.683294 main     OS Product: Linux
+18:54:52.683299 main     OS Release: 5.15.0-122-generic
+18:54:52.683304 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+18:54:52.683308 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+18:54:52.683308 main     Process ID: 5954
+18:54:52.683309 main     Package type: LINUX_64BITS_GENERIC
+18:54:52.683315 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+18:54:52.683319 main      Service: VMSVGA display assistant
+Gjs-Message: 19:54:52.747: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 117 ms
+vmware-user: could not open /proc/fs/vmblock/dev
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 19:54:54.206: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 1459 ms
+Gjs-Message: 19:54:54.313: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 19:54:54.321: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 115 ms
+Gjs-Message: 19:54:54.548: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 227 ms
+Gjs-Message: 19:54:54.585: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 37 ms
+Fractional scaling active: False
+Gjs-Message: 19:54:54.612: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 27 ms
+Gjs-Message: 19:54:54.659: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 47 ms
+** Message: 19:54:54.741: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 19:54:54.769: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 110 ms
+blueman-applet 19.54.54 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 19.54.54 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Trying to connect to logind...
+Starting screensaver...
+Gjs-Message: 19:54:55.469: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 19:54:55.469: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 19:54:55.473: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 704 ms
+Gjs-Message: 19:54:55.492: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.43/org/x/StatusIcon/Icon)
+
+** (csd-power:5789): CRITICAL **: 19:54:55.536: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 19:54:55.579: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 106 ms
+Gjs-Message: 19:54:55.614: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 19:54:55.636: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.43/org/x/StatusIcon/Icon)
+Gjs-Message: 19:54:55.681: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 102 ms
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[5482]: WARNING: t+10,05699s: Detected that screensaver has appeared on the bus
+Successfully using logind
+Gjs-Message: 19:54:56.125: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 444 ms
+Gjs-Message: 19:54:56.126: JS LOG: [LookingGlass/info] AppletManager started in 3645 ms
+Gjs-Message: 19:54:56.130: JS LOG: [LookingGlass/info] Cinnamon took 5542 ms to start
+Gjs-Message: 19:54:56.159: JS LOG: Unknown network device type, is 14
+Gjs-Message: 19:54:56.164: JS LOG: Unknown network device type, is 13
+Gjs-Message: 19:54:56.164: JS LOG: Unknown network device type, is 13
+Gjs-Message: 19:54:56.668: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 19:54:56.702: JS LOG: [LookingGlass/info] GPU offload supported: false
+blueman-applet 19.54.56 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 19:55:16.064: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.70/org/x/StatusIcon/Icon)
+cinnamon-session[5482]: WARNING: t+40,07082s: Detected that screensaver has left the bus
+Gjs-Message: 19:55:33.867: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.74/org/x/StatusIcon/Icon)
+Gjs-Message: 19:55:33.871: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.74/org/x/StatusIcon/Icon_1)
+cinnamon-session[5482]: WARNING: t+342,14021s: Detected that screensaver has appeared on the bus
+cinnamon-session[5482]: WARNING: t+372,15493s: Detected that screensaver has left the bus
+Xsession: X session started for pro at jue 03 oct 2024 17:50:31 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+16:50:32.971491 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:32.971497 main     Log opened 2024-10-03T16:50:32.971485000Z
+16:50:32.971558 main     OS Product: Linux
+16:50:32.971570 main     OS Release: 5.15.0-122-generic
+16:50:32.971580 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:32.971588 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:32.971590 main     Process ID: 5592
+16:50:32.971591 main     Package type: LINUX_64BITS_GENERIC
+16:50:32.971604 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:32.971613 main      Service: Shared Clipboard
+16:50:32.979078 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:32.979084 main     Log opened 2024-10-03T16:50:32.979071000Z
+16:50:32.979132 main     OS Product: Linux
+16:50:32.979143 main     OS Release: 5.15.0-122-generic
+16:50:32.979153 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:32.979161 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:32.979163 main     Process ID: 5596
+16:50:32.979164 main     Package type: LINUX_64BITS_GENERIC
+16:50:32.979195 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:32.979205 main      Service: VirtualBox host version check
+16:50:32.986980 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:32.986990 main     Log opened 2024-10-03T16:50:32.986973000Z
+16:50:32.987033 main     OS Product: Linux
+16:50:32.987044 main     OS Release: 5.15.0-122-generic
+16:50:32.987054 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:32.987062 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:32.987064 main     Process ID: 5600
+16:50:32.987065 main     Package type: LINUX_64BITS_GENERIC
+16:50:32.987078 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:32.987087 main      Service: Seamless Mode Support
+16:50:32.998868 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:32.998874 main     Log opened 2024-10-03T16:50:32.998861000Z
+16:50:32.998918 main     OS Product: Linux
+16:50:32.998929 main     OS Release: 5.15.0-122-generic
+16:50:32.998939 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:32.998947 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:32.998949 main     Process ID: 5611
+16:50:32.998950 main     Package type: LINUX_64BITS_GENERIC
+16:50:32.998963 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:32.998973 main      Service: Drag'n'Drop
+16:50:33.006717 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:33.006721 main     Log opened 2024-10-03T16:50:33.006710000Z
+16:50:33.006754 main     OS Product: Linux
+16:50:33.006763 main     OS Release: 5.15.0-122-generic
+16:50:33.006770 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:33.006777 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:33.006778 main     Process ID: 5619
+16:50:33.006779 main     Package type: LINUX_64BITS_GENERIC
+16:50:33.006789 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:33.006893 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5743): WARNING **: 17:50:34.933: failed to get edid: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.196: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+Gjs-Message: 17:50:37.123: Profiler is disabled. Not setting up signals.
+Gjs-Message: 17:50:37.603: JS LOG: About to start Cinnamon
+Gjs-Message: 17:50:38.793: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1186 ms
+Gjs-Message: 17:50:38.827: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 17:50:38.910: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 17:50:38.921: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 17:50:39.200: JS LOG: [LookingGlass/info] loaded at Thu Oct 03 2024 17:50:39 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 17:50:39.201: JS LOG: Cinnamon started at Thu Oct 03 2024 17:50:39 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 17:50:39.249: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Gjs-Message: 17:50:39.249: JS LOG: [LookingGlass/info] DeskletManager started in 2 ms
+Gjs-Message: 17:50:39.249: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 17:50:39.298: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+16:50:39.410479 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:39.410483 main     Log opened 2024-10-03T16:50:39.410475000Z
+16:50:39.410511 main     OS Product: Linux
+16:50:39.410517 main     OS Release: 5.15.0-122-generic
+16:50:39.410521 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:39.410525 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:39.410525 main     Process ID: 6570
+16:50:39.410526 main     Package type: LINUX_64BITS_GENERIC
+16:50:39.410532 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:39.410537 main      Service: Shared Clipboard
+16:50:39.412708 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:39.412710 main     Log opened 2024-10-03T16:50:39.412704000Z
+16:50:39.412735 main     OS Product: Linux
+16:50:39.412741 main     OS Release: 5.15.0-122-generic
+16:50:39.412746 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:39.412749 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:39.412750 main     Process ID: 6575
+16:50:39.412750 main     Package type: LINUX_64BITS_GENERIC
+16:50:39.412756 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:39.412761 main      Service: VirtualBox host version check
+16:50:39.416305 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:39.416307 main     Log opened 2024-10-03T16:50:39.416301000Z
+16:50:39.416330 main     OS Product: Linux
+16:50:39.416335 main     OS Release: 5.15.0-122-generic
+16:50:39.416340 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:39.416343 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:39.416344 main     Process ID: 6578
+16:50:39.416344 main     Package type: LINUX_64BITS_GENERIC
+16:50:39.416350 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:39.416355 main      Service: Seamless Mode Support
+16:50:39.419985 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:39.419987 main     Log opened 2024-10-03T16:50:39.419981000Z
+16:50:39.420015 main     OS Product: Linux
+16:50:39.420021 main     OS Release: 5.15.0-122-generic
+16:50:39.420025 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:39.420029 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:39.420030 main     Process ID: 6583
+16:50:39.420030 main     Package type: LINUX_64BITS_GENERIC
+16:50:39.420036 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:39.420040 main      Service: Drag'n'Drop
+16:50:39.423524 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:39.423526 main     Log opened 2024-10-03T16:50:39.423520000Z
+16:50:39.423546 main     OS Product: Linux
+16:50:39.423552 main     OS Release: 5.15.0-122-generic
+16:50:39.423556 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:39.423559 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:39.423560 main     Process ID: 6590
+16:50:39.423560 main     Package type: LINUX_64BITS_GENERIC
+16:50:39.423566 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:39.423570 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 17:50:40.291: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 978 ms
+Gjs-Message: 17:50:40.297: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 17:50:40.301: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 10 ms
+Gjs-Message: 17:50:40.312: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 11 ms
+Gjs-Message: 17:50:40.924: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 612 ms
+Gjs-Message: 17:50:41.021: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 97 ms
+Gjs-Message: 17:50:41.098: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 17:50:41.245: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 224 ms
+Fractional scaling active: False
+Gjs-Message: 17:50:41.268: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 23 ms
+Gjs-Message: 17:50:41.317: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 49 ms
+Gjs-Message: 17:50:41.537: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 220 ms
+** Message: 17:50:41.569: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 17:50:41.770: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 232 ms
+Trying to connect to logind...
+Starting screensaver...
+Gjs-Message: 17:50:41.841: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 71 ms
+blueman-applet 17.50.42 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.50.42 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 17:50:42.416: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 17:50:42.416: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+
+** (csd-power:5773): CRITICAL **: 17:50:42.425: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 17:50:42.426: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 585 ms
+Gjs-Message: 17:50:42.466: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 17:50:42.467: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.46/org/x/StatusIcon/Icon)
+Gjs-Message: 17:50:42.593: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 167 ms
+Gjs-Message: 17:50:42.654: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.46/org/x/StatusIcon/Icon)
+Gjs-Message: 17:50:42.682: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 89 ms
+Gjs-Message: 17:50:42.756: JS LOG: Unknown network device type, is 14
+Gjs-Message: 17:50:42.761: JS LOG: Unknown network device type, is 13
+Gjs-Message: 17:50:42.761: JS LOG: Unknown network device type, is 13
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[5474]: WARNING: t+9,28578s: Detected that screensaver has appeared on the bus
+Successfully using logind
+Gjs-Message: 17:50:43.087: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 405 ms
+Gjs-Message: 17:50:43.088: JS LOG: [LookingGlass/info] AppletManager started in 3883 ms
+Gjs-Message: 17:50:43.092: JS LOG: [LookingGlass/info] Cinnamon took 5489 ms to start
+Gjs-Message: 17:50:43.522: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 17:50:43.649: JS LOG: [LookingGlass/info] GPU offload supported: false
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 17:51:01.854: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.69/org/x/StatusIcon/Icon)
+blueman-applet 17.51.07 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+cinnamon-session[5474]: WARNING: t+39,29468s: Detected that screensaver has left the bus
+Gjs-Message: 17:51:19.940: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.73/org/x/StatusIcon/Icon)
+Gjs-Message: 17:51:19.945: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.73/org/x/StatusIcon/Icon_1)
+cinnamon-session[5474]: WARNING: t+175,93802s: Detected that screensaver has appeared on the bus
+cinnamon-session[5474]: WARNING: t+205,95731s: Detected that screensaver has left the bus
+cinnamon-session[5474]: WARNING: t+1473,91284s: Detected that screensaver has appeared on the bus
+cinnamon-session[5474]: WARNING: t+1509,38821s: Detected that screensaver has left the bus
+cinnamon-session[5474]: WARNING: t+2825,46565s: Detected that screensaver has appeared on the bus
+cinnamon-session[5474]: WARNING: t+2866,86867s: Detected that screensaver has left the bus
+
+** (csd-color:5743): WARNING **: 15:50:55.198: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.199: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.202: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.669: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.671: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.672: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.745: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.748: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.749: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.924: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.925: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:50:55.933: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.067: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.067: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.072: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.163: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.163: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.165: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.289: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.291: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.294: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.414: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.417: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.422: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.508: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.517: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.520: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.627: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.629: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.632: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.795: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.796: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.798: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.943: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.946: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:03.949: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.043: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.047: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.053: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.189: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.193: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.194: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.316: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.320: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.327: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.582: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.587: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.591: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.751: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.755: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.758: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.904: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.906: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:04.913: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:05.169: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:05.172: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 15:51:05.175: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 16:06:25.252: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 16:06:25.376: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 16:06:25.378: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[5474]: WARNING: t+6505,45010s: Detected that screensaver has appeared on the bus
+
+(cinnamon:5875): mutter-WARNING **: 17:47:54.136: Failed to store clipboard: Formato UTF8_STRING no soportado
+
+(cinnamon:5875): mutter-WARNING **: 17:47:57.183: Failed to store clipboard: Formato UTF8_STRING no soportado
+
+(cinnamon:5875): mutter-WARNING **: 17:48:27.191: Failed to store clipboard: Formato UTF8_STRING no soportado
+
+** (csd-color:5743): WARNING **: 17:50:18.265: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:18.267: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:18.268: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.434: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.440: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.458: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.474: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.484: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.486: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.583: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.585: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.591: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.597: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.598: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.601: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.722: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.724: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:35.730: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.020: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.020: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.023: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.320: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.322: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:36.322: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.136: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.136: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.141: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.498: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.500: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 17:50:38.503: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[5474]: WARNING: t+7777,56797s: Detected that screensaver has left the bus
+
+** (csd-color:5743): WARNING **: 18:46:23.262: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.387: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.388: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.394: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.394: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.397: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.506: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.507: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.509: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(cinnamon:5875): mutter-WARNING **: 18:46:23.616: (../src/backends/meta-monitor.c:1541):meta_monitor_derive_current_mode: runtime check failed: (is_current_mode_known (monitor))
+
+(cinnamon:5875): mutter-WARNING **: 18:46:23.616: Impossible to resize screen at size 1247x968, error id 8: BadMatch (invalid parameter attributes)
+
+** (csd-color:5743): WARNING **: 18:46:23.650: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.650: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5743): WARNING **: 18:46:23.653: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (cinnamon:5875): CRITICAL **: 18:46:27.429: na_tray_manager_manage_screen: assertion 'manager->screen == NULL' failed
+Gjs-Message: 15:31:28.126: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 15:31:29.195: JS LOG: Unknown network device type, is 14
+Gjs-Message: 15:31:29.228: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:31:29.228: JS LOG: Unknown network device type, is 13
+Gjs-Message: 15:31:29.242: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.69/org/x/StatusIcon/Icon)
+Gjs-Message: 15:31:29.252: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.73/org/x/StatusIcon/Icon)
+Gjs-Message: 15:31:29.263: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.73/org/x/StatusIcon/Icon_1)
+
+** (csd-power:5773): CRITICAL **: 15:31:29.464: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 15:31:36.180: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+Window manager warning: WM_TRANSIENT_FOR window 0x4000fc3 for 0x4001cb4 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4000007.
+cinnamon-session[5474]: WARNING: t+18425,90139s: Detected that screensaver has appeared on the bus
+
+(cinnamon:5875): mutter-WARNING **: 17:46:45.426: Failed to store clipboard: Formato UTF8_STRING no soportado
+
+(cinnamon:5875): mutter-WARNING **: 17:46:55.079: Failed to store clipboard: Formato UTF8_STRING no soportado
+cinnamon-session[5474]: WARNING: t+19281,71559s: Detected that screensaver has left the bus
+Xsession: X session started for pro at lun 14 oct 2024 17:50:56 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+16:50:57.431768 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:57.431775 main     Log opened 2024-10-14T16:50:57.431760000Z
+16:50:57.431830 main     OS Product: Linux
+16:50:57.431843 main     OS Release: 5.15.0-122-generic
+16:50:57.431854 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:57.431864 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:57.431866 main     Process ID: 5720
+16:50:57.431867 main     Package type: LINUX_64BITS_GENERIC
+16:50:57.431882 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:57.431893 main      Service: Shared Clipboard
+16:50:57.439851 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:57.439858 main     Log opened 2024-10-14T16:50:57.439842000Z
+16:50:57.439907 main     OS Product: Linux
+16:50:57.439921 main     OS Release: 5.15.0-122-generic
+16:50:57.439932 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:57.439942 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:57.439944 main     Process ID: 5724
+16:50:57.439945 main     Package type: LINUX_64BITS_GENERIC
+16:50:57.439960 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:57.439971 main      Service: VirtualBox host version check
+16:50:57.449639 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:57.449645 main     Log opened 2024-10-14T16:50:57.449630000Z
+16:50:57.449699 main     OS Product: Linux
+16:50:57.449712 main     OS Release: 5.15.0-122-generic
+16:50:57.449724 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:57.449733 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:57.449735 main     Process ID: 5728
+16:50:57.449737 main     Package type: LINUX_64BITS_GENERIC
+16:50:57.449752 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:57.449763 main      Service: Seamless Mode Support
+16:50:57.464727 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:57.464733 main     Log opened 2024-10-14T16:50:57.464718000Z
+16:50:57.464787 main     OS Product: Linux
+16:50:57.464828 main     OS Release: 5.15.0-122-generic
+16:50:57.464841 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:57.464851 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:57.464852 main     Process ID: 5735
+16:50:57.464854 main     Package type: LINUX_64BITS_GENERIC
+16:50:57.464885 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:57.464897 main      Service: Drag'n'Drop
+16:50:57.473181 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:50:57.473186 main     Log opened 2024-10-14T16:50:57.473176000Z
+16:50:57.473232 main     OS Product: Linux
+16:50:57.473242 main     OS Release: 5.15.0-122-generic
+16:50:57.473249 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:50:57.473255 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:50:57.473256 main     Process ID: 5742
+16:50:57.473257 main     Package type: LINUX_64BITS_GENERIC
+16:50:57.473267 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:50:57.473357 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5871): WARNING **: 17:50:59.917: failed to get edid: unable to get EDID for output
+
+** (csd-color:5871): WARNING **: 17:50:59.930: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 17:51:01.598: Profiler is disabled. Not setting up signals.
+Gjs-Message: 17:51:02.812: JS LOG: About to start Cinnamon
+Gjs-Message: 17:51:04.317: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1495 ms
+Gjs-Message: 17:51:04.352: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 17:51:04.435: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 17:51:04.447: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 17:51:04.792: JS LOG: [LookingGlass/info] loaded at Mon Oct 14 2024 17:51:04 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 17:51:04.792: JS LOG: Cinnamon started at Mon Oct 14 2024 17:51:04 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 17:51:04.844: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Gjs-Message: 17:51:04.844: JS LOG: [LookingGlass/info] DeskletManager started in 3 ms
+Gjs-Message: 17:51:04.845: JS LOG: [LookingGlass/info] SearchProviderManager started in 2 ms
+Gjs-Message: 17:51:04.895: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+16:51:04.993704 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:51:04.993706 main     Log opened 2024-10-14T16:51:04.993700000Z
+16:51:04.993732 main     OS Product: Linux
+16:51:04.993738 main     OS Release: 5.15.0-122-generic
+16:51:04.993742 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:51:04.993746 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:51:04.993747 main     Process ID: 6050
+16:51:04.993747 main     Package type: LINUX_64BITS_GENERIC
+16:51:04.993753 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:51:04.993758 main      Service: Shared Clipboard
+16:51:04.995852 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:51:04.995856 main     Log opened 2024-10-14T16:51:04.995849000Z
+16:51:04.995876 main     OS Product: Linux
+16:51:04.995881 main     OS Release: 5.15.0-122-generic
+16:51:04.995886 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:51:04.995889 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:51:04.995890 main     Process ID: 6055
+16:51:04.995890 main     Package type: LINUX_64BITS_GENERIC
+16:51:04.995903 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:51:04.995907 main      Service: VirtualBox host version check
+16:51:04.999451 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:51:04.999455 main     Log opened 2024-10-14T16:51:04.999447000Z
+16:51:04.999478 main     OS Product: Linux
+16:51:04.999483 main     OS Release: 5.15.0-122-generic
+16:51:04.999487 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:51:04.999491 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:51:04.999491 main     Process ID: 6058
+16:51:04.999492 main     Package type: LINUX_64BITS_GENERIC
+16:51:04.999498 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:51:04.999502 main      Service: Seamless Mode Support
+16:51:05.003081 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:51:05.003184 main     Log opened 2024-10-14T16:51:05.003077000Z
+16:51:05.003214 main     OS Product: Linux
+16:51:05.003219 main     OS Release: 5.15.0-122-generic
+16:51:05.003224 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:51:05.003228 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:51:05.003228 main     Process ID: 6063
+16:51:05.003229 main     Package type: LINUX_64BITS_GENERIC
+16:51:05.003235 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:51:05.003239 main      Service: Drag'n'Drop
+16:51:05.005321 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+16:51:05.005323 main     Log opened 2024-10-14T16:51:05.005317000Z
+16:51:05.005353 main     OS Product: Linux
+16:51:05.005358 main     OS Release: 5.15.0-122-generic
+16:51:05.005362 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+16:51:05.005366 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+16:51:05.005366 main     Process ID: 6068
+16:51:05.005367 main     Package type: LINUX_64BITS_GENERIC
+16:51:05.005372 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+16:51:05.005376 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 17:51:06.869: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 721 ms
+Gjs-Message: 17:51:06.875: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 17:51:06.879: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 10 ms
+Gjs-Message: 17:51:06.887: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 8 ms
+Fractional scaling active: False
+Gjs-Message: 17:51:07.134: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 17:51:07.146: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 259 ms
+Gjs-Message: 17:51:07.258: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 112 ms
+Gjs-Message: 17:51:07.289: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 31 ms
+Gjs-Message: 17:51:07.297: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 8 ms
+Gjs-Message: 17:51:07.347: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 50 ms
+Gjs-Message: 17:51:07.436: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 89 ms
+Trying to connect to logind...
+Starting screensaver...
+Gjs-Message: 17:51:07.632: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 195 ms
+Gjs-Message: 17:51:07.673: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 41 ms
+
+** (csd-power:5908): CRITICAL **: 17:51:07.712: abs_to_percentage: assertion 'max > min' failed
+blueman-applet 17.51.07 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.51.07 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+** Message: 17:51:07.778: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 17:51:07.823: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 139 ms
+Gjs-Message: 17:51:08.052: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 17:51:08.052: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 17:51:08.060: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 237 ms
+Gjs-Message: 17:51:08.071: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 17:51:08.280: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 220 ms
+Gjs-Message: 17:51:08.283: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[5602]: WARNING: t+10,44114s: Detected that screensaver has appeared on the bus
+Gjs-Message: 17:51:08.658: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 377 ms
+Gjs-Message: 17:51:08.658: JS LOG: [LookingGlass/info] AppletManager started in 3862 ms
+Gjs-Message: 17:51:08.663: JS LOG: [LookingGlass/info] Cinnamon took 5851 ms to start
+Gjs-Message: 17:51:08.675: JS LOG: Unknown network device type, is 14
+Gjs-Message: 17:51:08.681: JS LOG: Unknown network device type, is 13
+Gjs-Message: 17:51:08.681: JS LOG: Unknown network device type, is 13
+Successfully using logind
+Gjs-Message: 17:51:08.927: JS LOG: [LookingGlass/info] GPU offload supported: false
+Gjs-Message: 17:51:09.352: JS LOG: Enabling WindowAttentionHandler
+blueman-applet 17.51.10 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 17:51:29.974: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.71/org/x/StatusIcon/Icon)
+Window manager warning: WM_TRANSIENT_FOR window 0x4800531 for 0x4800588 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4800007.
+cinnamon-session[5602]: WARNING: t+40,46084s: Detected that screensaver has left the bus
+Gjs-Message: 17:51:46.187: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.76/org/x/StatusIcon/Icon)
+Gjs-Message: 17:51:46.191: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.76/org/x/StatusIcon/Icon_1)
+cinnamon-session[5602]: WARNING: t+52,01019s: Detected that screensaver has appeared on the bus
+cinnamon-session[5602]: WARNING: t+82,02943s: Detected that screensaver has left the bus
+Xsession: X session started for pro at mar 15 oct 2024 16:32:25 WEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+localuser:pro being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pro
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pro
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=pro
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XAUTHORITY=/home/pro/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting PWD=/home/pro
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting OLDPWD=/home/pro
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/pro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+15:32:26.677981 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:26.677987 main     Log opened 2024-10-15T15:32:26.677973000Z
+15:32:26.678037 main     OS Product: Linux
+15:32:26.678050 main     OS Release: 5.15.0-122-generic
+15:32:26.678061 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:26.678070 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:26.678071 main     Process ID: 5725
+15:32:26.678073 main     Package type: LINUX_64BITS_GENERIC
+15:32:26.678087 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:26.678097 main      Service: Shared Clipboard
+15:32:26.686561 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:26.686567 main     Log opened 2024-10-15T15:32:26.686552000Z
+15:32:26.686617 main     OS Product: Linux
+15:32:26.686630 main     OS Release: 5.15.0-122-generic
+15:32:26.686641 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:26.686650 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:26.686651 main     Process ID: 5729
+15:32:26.686653 main     Package type: LINUX_64BITS_GENERIC
+15:32:26.686667 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:26.686678 main      Service: VirtualBox host version check
+15:32:26.693816 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:26.693823 main     Log opened 2024-10-15T15:32:26.693808000Z
+15:32:26.693872 main     OS Product: Linux
+15:32:26.693943 main     OS Release: 5.15.0-122-generic
+15:32:26.693955 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:26.693964 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:26.693966 main     Process ID: 5733
+15:32:26.693967 main     Package type: LINUX_64BITS_GENERIC
+15:32:26.693982 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:26.693993 main      Service: Seamless Mode Support
+15:32:26.702348 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:26.702354 main     Log opened 2024-10-15T15:32:26.702340000Z
+15:32:26.702466 main     OS Product: Linux
+15:32:26.702480 main     OS Release: 5.15.0-122-generic
+15:32:26.702503 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:26.702513 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:26.702514 main     Process ID: 5740
+15:32:26.702516 main     Package type: LINUX_64BITS_GENERIC
+15:32:26.702530 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:26.702542 main      Service: Drag'n'Drop
+15:32:26.711272 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:26.711276 main     Log opened 2024-10-15T15:32:26.711267000Z
+15:32:26.711304 main     OS Product: Linux
+15:32:26.711311 main     OS Release: 5.15.0-122-generic
+15:32:26.711318 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:26.711324 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:26.711325 main     Process ID: 5748
+15:32:26.711326 main     Package type: LINUX_64BITS_GENERIC
+15:32:26.711335 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:26.711416 main      Service: VMSVGA display assistant
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+SSH_AUTH_SOCK=/run/user/1002/keyring/ssh
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+
+** (csd-color:5876): WARNING **: 16:32:29.137: failed to get edid: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:29.148: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 16:32:31.002: Profiler is disabled. Not setting up signals.
+Gjs-Message: 16:32:32.424: JS LOG: About to start Cinnamon
+Gjs-Message: 16:32:34.919: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 2491 ms
+Gjs-Message: 16:32:34.982: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 16:32:35.090: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 16:32:35.104: JS LOG: [LookingGlass/info] GesturesManager: Looking for devices.
+Gjs-Message: 16:32:35.839: JS LOG: [LookingGlass/info] loaded at Tue Oct 15 2024 16:32:35 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 16:32:35.839: JS LOG: Cinnamon started at Tue Oct 15 2024 16:32:35 GMT+0100 (hora de verano de Europa occidental)
+Gjs-Message: 16:32:36.177: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 16:32:36.177: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 16:32:36.177: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+15:32:36.383187 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:36.383190 main     Log opened 2024-10-15T15:32:36.383183000Z
+15:32:36.383219 main     OS Product: Linux
+15:32:36.383225 main     OS Release: 5.15.0-122-generic
+15:32:36.383230 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:36.383234 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:36.383234 main     Process ID: 6054
+15:32:36.383235 main     Package type: LINUX_64BITS_GENERIC
+15:32:36.383241 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:36.383245 main      Service: Shared Clipboard
+15:32:36.387139 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:36.387142 main     Log opened 2024-10-15T15:32:36.387135000Z
+15:32:36.387170 main     OS Product: Linux
+15:32:36.387175 main     OS Release: 5.15.0-122-generic
+15:32:36.387180 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:36.387184 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:36.387184 main     Process ID: 6059
+15:32:36.387185 main     Package type: LINUX_64BITS_GENERIC
+15:32:36.387198 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:36.387203 main      Service: VirtualBox host version check
+15:32:36.392033 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:36.392036 main     Log opened 2024-10-15T15:32:36.392029000Z
+15:32:36.392059 main     OS Product: Linux
+15:32:36.392065 main     OS Release: 5.15.0-122-generic
+15:32:36.392069 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:36.392073 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:36.392073 main     Process ID: 6063
+15:32:36.392074 main     Package type: LINUX_64BITS_GENERIC
+15:32:36.392080 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:36.392197 main      Service: Seamless Mode Support
+15:32:36.398585 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:36.398587 main     Log opened 2024-10-15T15:32:36.398580000Z
+15:32:36.398614 main     OS Product: Linux
+15:32:36.398619 main     OS Release: 5.15.0-122-generic
+15:32:36.398624 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:36.398627 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:36.398628 main     Process ID: 6070
+15:32:36.398628 main     Package type: LINUX_64BITS_GENERIC
+15:32:36.398635 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:36.398639 main      Service: Drag'n'Drop
+15:32:36.402155 main     VBoxClient 7.0.14 r161095 (verbosity: 0) linux.amd64 (Jan 15 2024 15:01:59) release log
+15:32:36.402157 main     Log opened 2024-10-15T15:32:36.402151000Z
+15:32:36.402185 main     OS Product: Linux
+15:32:36.402190 main     OS Release: 5.15.0-122-generic
+15:32:36.402195 main     OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+15:32:36.402198 main     Executable: /opt/VBoxGuestAdditions-7.0.14/bin/VBoxClient
+15:32:36.402199 main     Process ID: 6074
+15:32:36.402199 main     Package type: LINUX_64BITS_GENERIC
+15:32:36.402206 main      VBoxClient 7.0.14 r161095 started. Verbose level = 0. Wayland environment detected: no
+15:32:36.402211 main      Service: VMSVGA display assistant
+vmware-user: could not open /proc/fs/vmblock/dev
+Aborting: Check that the nvidia-settings and nvidia-prime packages are installed.
+Gjs-Message: 16:32:37.751: JS LOG: [LookingGlass/info] GesturesManager: No devices.
+
+** (csd-color:5876): WARNING **: 16:32:38.200: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:38.200: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:38.206: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:38.755: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:38.755: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:5876): WARNING **: 16:32:38.762: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Fractional scaling active: False
+Gjs-Message: 16:32:38.950: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 1195 ms
+** Message: 16:32:39.334: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 16:32:39.348: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 397 ms
+blueman-applet 16.32.39 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 16.32.39 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 16:32:39.511: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 162 ms
+Gjs-Message: 16:32:39.520: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 16:32:39.566: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 55 ms
+Trying to connect to logind...
+Starting screensaver...
+Gjs-Message: 16:32:39.722: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 156 ms
+Gjs-Message: 16:32:39.869: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 146 ms
+Gjs-Message: 16:32:39.893: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 24 ms
+Gjs-Message: 16:32:40.003: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 16:32:40.125: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 232 ms
+Gjs-Message: 16:32:40.229: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 104 ms
+Gjs-Message: 16:32:40.231: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 16:32:40.232: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Gjs-Message: 16:32:40.248: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 19 ms
+Gjs-Message: 16:32:40.322: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 74 ms
+blueman-applet 16.32.40 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Gjs-Message: 16:32:40.663: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 16:32:40.664: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 16:32:40.667: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 341 ms
+Gjs-Message: 16:32:40.682: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.48/org/x/StatusIcon/Icon)
+
+** (csd-power:5914): CRITICAL **: 16:32:40.723: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 16:32:40.836: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 169 ms
+Gjs-Message: 16:32:40.954: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.48/org/x/StatusIcon/Icon)
+Gjs-Message: 16:32:41.002: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 166 ms
+Cinnamon Screensaver support not found in current theme - adding some...
+Gjs-Message: 16:32:41.303: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 300 ms
+Gjs-Message: 16:32:41.303: JS LOG: [LookingGlass/info] AppletManager started in 5463 ms
+Gjs-Message: 16:32:41.308: JS LOG: [LookingGlass/info] Cinnamon took 8884 ms to start
+Fractional scaling active: False
+Fractional scaling active: False
+Fractional scaling active: False
+Gjs-Message: 16:32:41.350: JS LOG: Unknown network device type, is 14
+Gjs-Message: 16:32:41.356: JS LOG: Unknown network device type, is 13
+Gjs-Message: 16:32:41.356: JS LOG: Unknown network device type, is 13
+Fractional scaling active: False
+Fractional scaling active: False
+Fractional scaling active: False
+cinnamon-session[5607]: WARNING: t+14,19208s: Detected that screensaver has appeared on the bus
+Successfully using logind
+Gjs-Message: 16:32:41.961: JS LOG: [LookingGlass/info] GPU offload supported: false
+Purging unused flatpaks
+Nada sin usar que desinstalar
+
+Installing new theme to match local theme
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 16:33:05.968: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.78/org/x/StatusIcon/Icon)
+Gjs-Message: 16:33:18.257: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.82/org/x/StatusIcon/Icon)
+Gjs-Message: 16:33:18.276: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.82/org/x/StatusIcon/Icon_1)
+cinnamon-session[5607]: WARNING: t+64,61734s: Detected that screensaver has left the bus
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600003

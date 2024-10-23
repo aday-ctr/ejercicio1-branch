@@ -1,0 +1,92 @@
+2024-10-07 15:50:37.154 [info] Started local extension host with pid 22620.
+2024-10-07 15:50:40.380 [info] [perf] Render performance baseline is 132ms
+2024-10-07 16:00:50.967 [info] Settings Sync: Updating due to change in sessions
+2024-10-07 16:00:50.995 [info] Settings Sync: Updating due to change in sessions
+2024-10-07 16:05:57.354 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:908917
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at Object.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870897)
+	at Generator.next (<anonymous>)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869349
+	at new Promise (<anonymous>)
+	at r (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869094)
+	at Object.isTestFile (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870839)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:715496
+	at Generator.next (<anonymous>)
+	at a (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:713801)
+2024-10-07 16:05:57.357 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:908917
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at Object.<anonymous> (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870897)
+	at Generator.next (<anonymous>)
+	at /home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869349
+	at new Promise (<anonymous>)
+	at r (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:869094)
+	at Object.isTestFile (/home/pro/.vscode/extensions/redhat.java-1.35.1-linux-x64/dist/extension.js:2:870839)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:715496
+	at Generator.next (<anonymous>)
+	at a (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:713801)
+2024-10-07 16:05:58.447 [error] ENOENT: no such file or directory, open '/home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d/redhat.java/jdt_ws/.metadata/.log': Error: ENOENT: no such file or directory, open '/home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:641:25)
+	at async Object.readFile (node:internal/fs/promises:1269:14)
+2024-10-07 16:07:09.421 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:07:09.424 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:08:22.335 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:08:22.337 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:12:28.179 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:12:28.179 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:14:11.619 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:11.621 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:14:29.623 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:29.623 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:14:58.325 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:14:58.326 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:15:19.465 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:15:19.467 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-07 16:18:09.372 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-07 16:18:09.373 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 17:54:34.499 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 17:54:34.511 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:00:36.498 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:00:36.500 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:01:56.847 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:01:56.851 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:11:11.678 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:11:11.683 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio1.java.git'
+2024-10-10 18:11:11.687 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:14:26.897 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:14:26.902 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:15:11.249 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:15:11.250 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:19:04.123 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:19:04.124 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:19:56.594 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:19:56.598 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:20:19.317 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:20:19.320 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:25:11.008 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:25:11.009 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:27:34.031 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:27:34.031 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:32:43.111 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:32:43.115 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:32:43.119 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:38:09.356 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:38:09.359 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/ejercicio2.java.git'
+2024-10-10 18:38:09.362 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:39:10.303 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:39:10.306 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:39:22.868 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:39:22.869 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:41:53.042 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:41:53.044 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:45:02.964 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:45:02.968 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'
+2024-10-10 18:45:45.176 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/README.md.git'
+2024-10-10 18:45:45.179 [error] ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git': Error: ENOENT: no such file or directory, lstat '/home/pro/Escritorio/git/ejercicio1-branch/Ejercicio3.java.git'

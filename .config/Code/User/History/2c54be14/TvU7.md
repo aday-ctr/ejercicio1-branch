@@ -1,0 +1,214 @@
+# Entornos de Desarrollo: Comenzando con Git "Trabajando con Branchs"
+
+## Clonación del repositorio
+
+```code
+git clone https://github.com/aday-ctr/ejercicio1-branch
+Clonando en 'ejercicio1-branch'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0 (from 0)
+Recibiendo objetos: 100% (3/3), listo.
+```
+## Se incluye el commit 
+
+```code
+git commit -m "Se incluye la descripción inicial de la tarea"
+[main 7ac1b07] Se incluye la descripción inicial de la tarea
+ 1 file changed, 12 insertions(+), 1 deletion(-
+```
+## Se a subido el archivo
+
+```code
+git push
+Enumerando objetos: 5, listo.
+Contando objetos: 100% (5/5), listo.
+Compresión delta usando hasta 2 hilos
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos: 100% (3/3), 512 bytes | 23.00 KiB/s, listo.
+Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To https://github.com/aday-ctr/ejercicio1-branch
+   8d06d4f..7ac1b07  main -> main
+```
+
+## Se añade la siguiente clase al reporitorio
+
+```code
+     public class Ejercicio1 {
+     public static void main(String[] args) {
+         System.out.println("Ejercicio 1 realizado.");
+     }
+ }    
+ ```
+
+ ## Hacer commit de los cambios
+ 
+ ```code
+git commit -m "Se incluye el Ejercicio1.java"
+[main b7f31f8] Se incluye el Ejercicio1.java
+ 1 file changed, 20 insertions(+)
+ ```
+
+ ## Sube los cambios a tu repositorio
+ 
+ ```code
+git push origin ejercicio1-branch
+Total 0 (delta 0), reusados 0 (delta 0), pack-reusados 0
+remote: 
+remote: Create a pull request for 'ejercicio1-branch' on GitHub by visiting:
+remote:      https://github.com/aday-ctr/ejercicio1-branch/pull/new/ejercicio1-branch
+remote: 
+To https://github.com/aday-ctr/ejercicio1-branch
+ * [new branch]      ejercicio1-branch -> ejercicio1-branch
+ ```
+ 
+ ## Fusiona las ramas en main
+ 
+ ```code
+git checkout main
+git merge ejercicio1-branch
+M       README.md
+Ya en 'main'
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+Ya está actualizado.
+ ```
+
+ ## Realiza la subida de los cambios al rapositorio
+ 
+ ```code
+git push        
+Enumerando objetos: 5, listo.
+Contando objetos: 100% (5/5), listo.
+Compresión delta usando hasta 2 hilos
+Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos: 100% (3/3), 773 bytes | 773.00 KiB/s, listo.
+Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To https://github.com/aday-ctr/ejercicio1-branch
+   4942f9a..b7f31f8  main -> main
+ ```
+
+ ## Creamos la segunda rama
+ 
+ ```code
+git checkout -b ejercicio2-branch
+Cambiado a nueva rama 'ejercicio2-branch'
+ ```
+ 
+ ## Se añade la siguiente clase al reporitorio
+
+```code
+     public class Ejercicio2 {
+     public static void main(String[] args) {
+         System.out.println("Ejercicio 2 realizado.");
+     }
+ }    
+ ```
+
+ ## Subimos el archivo
+ 
+ ```code
+ git add .
+ ```
+ ## Hacemos un comint con los cambios realizados
+
+ ```code
+git commit -m "Se incluye el Ejercicio2.java"
+[ejercicio2-branch dbc2088] Se incluye el Ejercicio2.java
+ 2 files changed, 74 insertions(+)
+ create mode 100644 ejercicio2.java
+ ```
+
+## Subimos la rama nueva al rapositorio
+
+```code
+git push origin ejercicio2-branch
+Enumerando objetos: 6, listo.
+Contando objetos: 100% (6/6), listo.
+Compresión delta usando hasta 2 hilos
+Comprimiendo objetos: 100% (4/4), listo.
+Escribiendo objetos: 100% (4/4), 1.38 KiB | 1.38 MiB/s, listo.
+Total 4 (delta 0), reusados 0 (delta 0), pack-reusados 0
+remote: 
+remote: Create a pull request for 'ejercicio2-branch' on GitHub by visiting:
+remote:      https://github.com/aday-ctr/ejercicio1-branch/pull/new/ejercicio2-branch
+remote: 
+To https://github.com/aday-ctr/ejercicio1-branch
+ * [new branch]      ejercicio2-branch -> ejercicio2-branch
+```
+
+## Fusionamos la rama en main
+
+```code
+git checkout main
+git merge ejercicio2-branch
+error: Los cambios locales de los siguientes archivos serán sobrescritos por checkout:
+        README.md
+Por favor realice un commit con los cambios o un stash antes de cambiar ramas.
+Abortando
+Ya está actualizado.
+```
+
+## Realizamos la subida de los archivos
+
+```code
+git push --set-upstream origin ejercicio2-branch
+Rama 'ejercicio2-branch' configurada para hacer seguimiento a la rama remota 'ejercicio2-branch' de 'origin'.
+Everything up-to-date
+```
+
+## Creamos el 3 repositorio
+
+```code
+git checkout -b ejercicio3-branch
+Cambiado a nueva rama 'ejercicio3-branch'
+```
+## Añadimos la siguiente clase al repositorio
+
+```code
+     public class Ejercicio1 {
+     public static void main(String[] args) {
+         System.out.println("Ejercicio 1 realizado.");
+     }
+ }    
+```
+
+## Subimos los archivos
+
+```code
+git add Ejercicio3.java
+```
+
+## Hacemos el comint de los cambios
+
+```code
+git commit -m "Se incluye el Ejercicio3.java"
+[ejercicio3-branch 48db9e6] Se incluye el Ejercicio3.java
+ 1 file changed, 5 insertions(+)
+ create mode 100644 Ejercicio3.java
+```
+
+## Subimos los archivos al repositorio
+
+```code
+git push origin ejercicio3-branch
+Enumerando objetos: 4, listo.
+Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 2 hilos
+Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos: 100% (3/3), 392 bytes | 392.00 KiB/s, listo.
+Total 3 (delta 1), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: 
+remote: Create a pull request for 'ejercicio3-branch' on GitHub by visiting:
+remote:      https://github.com/aday-ctr/ejercicio1-branch/pull/new/ejercicio3-branch
+remote: 
+To https://github.com/aday-ctr/ejercicio1-branch
+ * [new branch]      ejercicio3-branch -> ejercicio3-branch
+```
+
+## Fusiona la rama en main
+
+```code
+
+```

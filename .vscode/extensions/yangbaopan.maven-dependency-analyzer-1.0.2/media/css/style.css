@@ -1,0 +1,75 @@
+ul,
+#myUL {
+  list-style-type: none;
+  font-family: var(--vscode-editor-font-family);
+  font-size: var(--vscode-font-size);
+}
+
+.caret {
+  cursor: pointer;
+  user-select: none;
+}
+
+.caret::before {
+  content: '>';
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.caret-down::before {
+  transform: rotate(90deg);
+}
+
+.nested {
+  display: none;
+}
+
+.active {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.vscode-dark {
+    background-color: var(--vscode-editor-background);
+    color: var(--vscode-editor-foreground)
+}
+
+.vscode-dark .list-group-item {
+  background-color: var(--vscode-editor-background);
+  color: var(--vscode-editor-foreground)
+}
+
+.list-group-item {
+  border: 0px solid var(--vscode-editor-background) !important;
+}
+
+li,
+span {
+  margin-top: .5rem;
+}
+
+.vscode-light ul.nested {
+  border-left: 1px solid var(--vscode-editor-foreground);
+}
+
+.vscode-dark ul.nested {
+    border-left: 1px solid var(--vscode-editor-foreground);
+}
+
+#spinner {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  transform: scale(1);
+}
+
+input:focus {
+  transform: scale(1.2);
+}

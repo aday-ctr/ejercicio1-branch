@@ -1,0 +1,14 @@
+2024-10-14 15:40:00.040 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-containers /home/pro/.vscode/extensions/ms-vscode-remote.remote-containers-0.384.0
+2024-10-14 15:40:00.040 [info] Deleted uninstalled extension from disk sonarsource.sonarlint-vscode /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64
+2024-10-14 15:40:24.684 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-14 15:40:24.693 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:12:28.579Z"},"pinned":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/pro/.vscode/extensions/extensions.json","path":"/home/pro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-14 15:40:30.213 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 4231ms.
+2024-10-14 15:40:30.616 [info] Extracted extension to file:///home/pro/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909: ms-ceintl.vscode-language-pack-es
+2024-10-14 15:40:30.802 [info] Renamed to /home/pro/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909
+2024-10-14 15:40:31.083 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.94.2024100209
+2024-10-14 15:40:31.143 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-14 15:40:31.480 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es vscode-userdata:/home/pro/.vscode/extensions/extensions.json
+2024-10-14 15:40:39.254 [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/pro/.config/Code/clp/5d55a630376dae9a7b4ea48c9728f804.es'): Error: ENOENT: no such file or directory, scandir '/home/pro/.config/Code/clp/5d55a630376dae9a7b4ea48c9728f804.es'
+    at async Object.readdir (node:internal/original-fs/promises:950:18)
+    at async Object.w (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:40594)
+    at async p.g (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:46559)

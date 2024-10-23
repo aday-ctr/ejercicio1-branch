@@ -1,0 +1,97 @@
+{
+  "updates": {
+    "modemmanager": {
+      "type": "package",
+      "since": "2024.09.24",
+      "days": 10
+    },
+    "libpcap": {
+      "type": "package",
+      "since": "2024.09.24",
+      "days": 10
+    },
+    "linux-firmware": {
+      "type": "package",
+      "since": "2024.09.27",
+      "days": 8
+    },
+    "ca-certificates": {
+      "type": "security",
+      "since": "2024.09.27",
+      "days": 8
+    },
+    "openjpeg2": {
+      "type": "security",
+      "since": "2024.09.27",
+      "days": 8
+    },
+    "configobj": {
+      "type": "security",
+      "since": "2024.09.27",
+      "days": 8
+    },
+    "intel-microcode": {
+      "type": "security",
+      "since": "2024.09.27",
+      "days": 8
+    },
+    "cups": {
+      "type": "security",
+      "since": "2024.10.01",
+      "days": 6
+    },
+    "cups-filters": {
+      "type": "security",
+      "since": "2024.10.01",
+      "days": 6
+    },
+    "xdg-desktop-portal": {
+      "type": "package",
+      "since": "2024.10.01",
+      "days": 6
+    },
+    "bubblewrap": {
+      "type": "security",
+      "since": "2024.10.03",
+      "days": 5
+    },
+    "vim": {
+      "type": "security",
+      "since": "2024.10.03",
+      "days": 5
+    },
+    "flatpak": {
+      "type": "security",
+      "since": "2024.10.03",
+      "days": 5
+    },
+    "firefox": {
+      "type": "security",
+      "since": "2024.10.07",
+      "days": 4
+    },
+    "libgsf": {
+      "type": "security",
+      "since": "2024.10.10",
+      "days": 3
+    },
+    "code": {
+      "type": "package",
+      "since": "2024.10.10",
+      "days": 3
+    },
+    "openvpn": {
+      "type": "package",
+      "since": "2024.10.15",
+      "days": 1
+    },
+    "thunderbird": {
+      "type": "security",
+      "since": "2024.10.15",
+      "days": 1
+    }
+  },
+  "version": 1,
+  "checked": "2024.10.15",
+  "notified": "2024.09.19"
+}

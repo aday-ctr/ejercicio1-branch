@@ -1,0 +1,112 @@
+!SESSION 2024-10-07 16:06:01.223 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  --pipe=/run/user/1002/lsp-8e54284512a28394f488e557d8694507.sock
+Command-line arguments:  -data /home/pro/.config/Code/User/workspaceStorage/332a0b82b9ef4828ba9dffbf8950bd8d/redhat.java/ss_ws --pipe=/run/user/1002/lsp-8e54284512a28394f488e557d8694507.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:13.058
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:13.668
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:13.855
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:13.856
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.429
+!MESSAGE Setting /usr/lib/jvm/java-11-openjdk-amd64 as 'JavaSE-11' environment (id:1728313574334)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.440
+!MESSAGE Setting /usr/lib/jvm/java-17-openjdk-amd64 as 'JavaSE-17' environment (id:1728313574432)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.451
+!MESSAGE Setting java.home /usr/lib/jvm/java-17-openjdk-amd64 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.497
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.529
+!MESSAGE Workspace initialized in 16ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.603
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.639
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.640
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.649
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.652
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.662
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.670
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.712
+!MESSAGE Creating the Java project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.735
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.738
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.883
+!MESSAGE Finished creating the Java project ejercicio1-branch_70848bf7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:14.932
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.726
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.727
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.870
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.911
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:16.930
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:17.240
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.024
+!MESSAGE begin problem for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.046
+!MESSAGE 0 problems reported for /ejercicio1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.123
+!MESSAGE Validated 1. Took 279 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:18.580
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.105
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.143
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.248
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-07 16:06:23.287
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

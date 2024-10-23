@@ -1,0 +1,65 @@
+2024-10-15 16:33:21.379 [info] Started local extension host with pid 7385.
+2024-10-15 16:33:25.733 [error] [/home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14]: No se pudo analizar /home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14/package.nls.json: Se esperaba un valor.
+2024-10-15 16:33:25.733 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave displayName.
+2024-10-15 16:33:25.733 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave description.
+2024-10-15 16:33:25.733 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openPreviewToTheSide.title.
+2024-10-15 16:33:25.733 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openPreview.title.
+2024-10-15 16:33:25.734 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleScrollSync.title.
+2024-10-15 16:33:25.734 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleLiveUpdate.title.
+2024-10-15 16:33:25.734 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleBreakOnSingleNewLine.title.
+2024-10-15 16:33:25.734 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openImageHelper.title.
+2024-10-15 16:33:25.734 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.runAllCodeChunks.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.runCodeChunk.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.syncPreview.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizeCss.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizeCssInWorkspace.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertNewSlide.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertTable.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertPagebreak.title.
+2024-10-15 16:33:25.735 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.createTOC.title.
+2024-10-15 16:33:25.736 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openConfigScript.title.
+2024-10-15 16:33:25.736 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.extendParser.title.
+2024-10-15 16:33:25.736 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizePreviewHtmlHead.title.
+2024-10-15 16:33:25.736 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openConfigScriptInWorkspace.title.
+2024-10-15 16:33:25.736 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.extendParserInWorkspace.title.
+2024-10-15 16:33:25.738 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizePreviewHtmlHeadInWorkspace.title.
+2024-10-15 16:33:25.738 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.showUploadedImages.title.
+2024-10-15 16:33:25.738 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave customEditorPreviewDisplayName.
+2024-10-15 16:33:29.013 [warning] No search provider registered for scheme: file, waiting
+2024-10-15 16:33:31.128 [info] [perf] Render performance baseline is 67ms
+2024-10-15 16:34:25.564 [info] Started local extension host with pid 8554.
+2024-10-15 16:34:30.454 [error] [/home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14]: No se pudo analizar /home/pro/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.14/package.nls.json: Se esperaba un valor.
+2024-10-15 16:34:30.455 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave displayName.
+2024-10-15 16:34:30.456 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave description.
+2024-10-15 16:34:30.457 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openPreviewToTheSide.title.
+2024-10-15 16:34:30.458 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openPreview.title.
+2024-10-15 16:34:30.459 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleScrollSync.title.
+2024-10-15 16:34:30.460 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleLiveUpdate.title.
+2024-10-15 16:34:30.461 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.toggleBreakOnSingleNewLine.title.
+2024-10-15 16:34:30.461 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openImageHelper.title.
+2024-10-15 16:34:30.462 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.runAllCodeChunks.title.
+2024-10-15 16:34:30.463 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.runCodeChunk.title.
+2024-10-15 16:34:30.463 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.syncPreview.title.
+2024-10-15 16:34:30.464 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizeCss.title.
+2024-10-15 16:34:30.465 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizeCssInWorkspace.title.
+2024-10-15 16:34:30.465 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertNewSlide.title.
+2024-10-15 16:34:30.466 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertTable.title.
+2024-10-15 16:34:30.467 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.insertPagebreak.title.
+2024-10-15 16:34:30.469 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.createTOC.title.
+2024-10-15 16:34:30.469 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openConfigScript.title.
+2024-10-15 16:34:30.470 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.extendParser.title.
+2024-10-15 16:34:30.470 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizePreviewHtmlHead.title.
+2024-10-15 16:34:30.471 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.openConfigScriptInWorkspace.title.
+2024-10-15 16:34:30.474 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.extendParserInWorkspace.title.
+2024-10-15 16:34:30.476 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.customizePreviewHtmlHeadInWorkspace.title.
+2024-10-15 16:34:30.477 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave markdown-preview-enhanced.showUploadedImages.title.
+2024-10-15 16:34:30.478 [warning] [markdown-preview-enhanced]: No se encontró un mensaje para la clave customEditorPreviewDisplayName.
+2024-10-15 16:34:30.912 [info] [perf] Render performance baseline is 236ms
+2024-10-15 16:38:48.382 [info] Settings Sync: Updating due to change in sessions
+2024-10-15 16:40:13.884 [info] Settings Sync: Updating due to change in sessions
+2024-10-15 16:40:13.890 [info] Settings Sync: Updated current session 183fe0ecdfdf18c
+2024-10-15 16:41:11.566 [warning] [redhat.vscode-xml]: No se puede registrar "redhat.telemetry.enabled". Esta propiedad ya está registrada.
+2024-10-15 16:41:11.576 [warning] [redhat.vscode-yaml]: No se puede registrar "redhat.telemetry.enabled". Esta propiedad ya está registrada.
+2024-10-15 16:41:11.624 [info] [Blackboxapp.blackbox]: El comando "extension.saveCodeToCloud" ya está registrado por Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2024-10-15 16:41:16.792 [error] Error: Se anuló onWillSaveTextDocument-event después de 1750 ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1873:13070

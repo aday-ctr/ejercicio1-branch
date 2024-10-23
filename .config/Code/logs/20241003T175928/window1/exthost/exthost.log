@@ -1,0 +1,160 @@
+2024-10-03 17:59:39.101 [info] Extension host with pid 12686 started
+2024-10-03 17:59:39.102 [info] Skipping acquiring lock for /home/pro/.config/Code/User/workspaceStorage/eb3c6f863778e45d3f1e8e663b7cc84f.
+2024-10-03 17:59:39.198 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onWalkthrough:dockerStart'
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: No
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2024-10-03 17:59:40.370 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2024-10-03 17:59:40.415 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2024-10-03 17:59:40.415 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2024-10-03 17:59:40.420 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Use a Dockerfile
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Use .NET SDK
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2024-10-03 17:59:40.442 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2024-10-03 17:59:40.443 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2024-10-03 17:59:40.443 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2024-10-03 17:59:40.443 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-10-03 17:59:40.446 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2024-10-03 17:59:40.448 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2024-10-03 17:59:40.468 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-10-03 17:59:40.469 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-10-03 17:59:40.469 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-03 17:59:40.761 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2024-10-03 17:59:40.761 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2024-10-03 17:59:40.763 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2024-10-03 17:59:40.763 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2024-10-03 17:59:40.763 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2024-10-03 17:59:40.763 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2024-10-03 17:59:40.764 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2024-10-03 17:59:40.765 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2024-10-03 17:59:40.765 [warning] Using default string since no string found in i18n bundle that has the key: GitHub Container Registry
+2024-10-03 17:59:40.765 [warning] Using default string since no string found in i18n bundle that has the key: Docker Hub
+2024-10-03 17:59:40.765 [warning] Using default string since no string found in i18n bundle that has the key: Azure
+2024-10-03 17:59:40.773 [warning] Using default string since no string found in i18n bundle that has the key: Azure Container Registry
+2024-10-03 17:59:40.773 [warning] Using default string since no string found in i18n bundle that has the key: Generic Registry V2
+2024-10-03 17:59:40.773 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2024-10-03 17:59:40.773 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2024-10-03 17:59:40.776 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2024-10-03 17:59:40.776 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2024-10-03 17:59:40.923 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-03 17:59:40.932 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-10-03 17:59:41.647 [info] ExtensionService#_doActivateExtension SonarSource.sonarlint-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 17:59:42.092 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 17:59:42.227 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+2024-10-03 17:59:43.564 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2024-10-03 17:59:43.646 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-03 17:59:43.649 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-03 17:59:44.725 [info] Eager extensions activated
+2024-10-03 17:59:44.960 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 17:59:44.961 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 17:59:44.966 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 17:59:47.970 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-10-07 15:36:19.563 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-07 15:36:19.627 [error] Canceled: Canceled
+	at new D (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:35235)
+	at y.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:6005)
+	at V.<computed>.F.charCodeAt.A.CharCode.DollarSign.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:3107)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210015)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at C.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:208777)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at i.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:952009)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:802)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:1018)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:972587)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:978709
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978695)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4176)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:954307)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at $ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:13607
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+	at Object.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11463)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:10282)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8153
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8140)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8413)
+	at $.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-07 15:36:19.628 [error] Canceled: Canceled
+	at new D (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:35235)
+	at y.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:6005)
+	at V.<computed>.F.charCodeAt.A.CharCode.DollarSign.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:3107)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210015)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at C.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:208777)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210554)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209546)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:209453)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:30683)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at i.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1060944)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:802)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:1018)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:972587)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:978709
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978695)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4176)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:954307)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:4273)
+	at $ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:13607
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+	at Object.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11463)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:10282)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8153
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8140)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8413)
+	at $.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-07 15:36:21.644 [error] Error: Channel has been closed
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:2490)
+	at Object.appendLine (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:2608)
+	at a.error (/home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:870230)
+	at /home/pro/.vscode/extensions/sonarsource.sonarlint-vscode-4.11.0-linux-x64/dist/extension.js:2:878448
+	at async Promise.all (index 13)
+	at async m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8168)
+2024-10-07 15:36:21.645 [info] Extension host with pid 12686 exiting with code 0
